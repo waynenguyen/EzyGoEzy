@@ -1,0 +1,59 @@
+$START USERLIST$
+
+$$START USER$$
+Paul Averilla%96104376%0%123456789%account%credit%0%inactive%%376%
+$$$START SMSLOG$$$
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+%%%-1%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$$START USER$$
+Ngo Tuan Vu%83234589%0%4536342342325321%credit%mobile%0%inactive%%589%
+$$$START SMSLOG$$$
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+%%%-1%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$$START USER$$
+Teo Kai Ren%91159375%0%9999900000%account%mobile%0%inactive%%375%
+$$$START SMSLOG$$$
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+%%%-1%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$$START USER$$
+Bimlesh%93856284%0%342489234687324%account%credit%0%inactive%%284%
+$$$START SMSLOG$$$
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+%%%-1%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$$START USER$$
+Hoang Duy%82693703%0%432287283781273%account%credit%62%active%AS7%703%
+$$$START SMSLOG$$$
+At time 2 Your credit card has been deducted by 2
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+After Science Park Drive%%A1%2%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$END USERLIST$

@@ -1,0 +1,801 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:GUI_for_0._1" x:Class="GUI_for_0._1.MainWindow"
+        mc:Ignorable="d"
+        Title="EzyGoEzy System" Height="586" Width="808" Closed="ExitProgram" ResizeMode="CanMinimize" Icon="EzyGoEzy Logo.ico">
+	<Window.Resources>
+		<Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="EzyGoEzy UserMenuButton.jpg" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle2" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid x:Name="SimulationButton1" Margin="1.92,1.543,-6.748,-1.543" RenderTransformOrigin="0.5,0.5">
+							<Grid.RenderTransform>
+								<TransformGroup>
+									<ScaleTransform/>
+									<SkewTransform/>
+									<RotateTransform Angle="27.087"/>
+									<TranslateTransform/>
+								</TransformGroup>
+							</Grid.RenderTransform>
+							<Image x:Name="SimulationButton" RenderTransformOrigin="0.5,0.5" Source="EzyGoEzy SimulationMenuButton.jpg" Stretch="Fill" HorizontalAlignment="Left" Width="14.943" Margin="0">
+								<Image.RenderTransform>
+									<TransformGroup>
+										<ScaleTransform/>
+										<SkewTransform/>
+										<RotateTransform Angle="5.313"/>
+										<TranslateTransform/>
+									</TransformGroup>
+								</Image.RenderTransform>
+							</Image>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle3" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image RenderTransformOrigin="0.5,0.5" Source="EzyGoEzy AdminMenuButton.jpg" Stretch="Fill">
+								<Image.RenderTransform>
+									<TransformGroup>
+										<ScaleTransform/>
+										<SkewTransform/>
+										<RotateTransform Angle="5.174"/>
+										<TranslateTransform/>
+									</TransformGroup>
+								</Image.RenderTransform>
+							</Image>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle4" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="home2.gif"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle5" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<local:UserControl2/>
+							<ContentPresenter HorizontalAlignment="Stretch" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="Stretch" Height="Auto" Width="Auto" Content="" Margin="9.524,5,38.525,19.627"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle6" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<ContentPresenter RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontFamily" Value="Marker Felt"/>
+			<Setter Property="FontSize" Value="25.333"/>
+			<Setter Property="Foreground" Value="White"/>
+		</Style>
+		<Style x:Key="ButtonStyle7" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Button x:Name="SimulationButton1" Content="Run Simulation" Style="{DynamicResource ButtonStyle6}"/>
+							<ContentPresenter HorizontalAlignment="Stretch" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="Stretch" d:LayoutOverrides="Width" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle8" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="SimulationUI_SimManagerwindow.gif" Stretch="Fill"/>
+							<ContentPresenter x:Name="SimulationManagerButton" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Content=""/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle9" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image x:Name="SMSnext" Source="arrow-right-circle3.gif" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="Stretch" Content="" Width="24.26"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle10" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="SimulationUI_UserStatus.gif" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle11" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Rectangle x:Name="UserStatusCoverBase" Fill="#FFF4F4F5" Stroke="Black"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle12" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Image Source="SimulationUI_GetStatus.gif" Stretch="Fill"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle13" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<local:UserControl3/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle14" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<ContentPresenter RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontFamily" Value="Marker Felt"/>
+			<Setter Property="FontSize" Value="18.667"/>
+			<Setter Property="Foreground" Value="White"/>
+		</Style>
+		<Style x:Key="ButtonStyle15" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<ContentPresenter RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontFamily" Value="Marker Felt"/>
+			<Setter Property="FontSize" Value="18.667"/>
+			<Setter Property="Foreground" Value="White"/>
+		</Style>
+		<Style x:Key="ButtonStyle16" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<ContentPresenter RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontFamily" Value="Marker Felt"/>
+			<Setter Property="FontSize" Value="48"/>
+			<Setter Property="Foreground" Value="#FF5D88DC"/>
+		</Style>
+		<Style x:Key="ButtonStyle17" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<ContentPresenter RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontFamily" Value="Marker Felt"/>
+			<Setter Property="FontSize" Value="48"/>
+			<Setter Property="Foreground" Value="#FF5D88DC"/>
+		</Style>
+		<Style x:Key="ButtonStyle18" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<local:UserControl4/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle19" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<ContentPresenter RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontFamily" Value="Marker Felt"/>
+			<Setter Property="FontSize" Value="40"/>
+			<Setter Property="Foreground" Value="#FF6EA5E2"/>
+		</Style>
+		<Style x:Key="ButtonStyle20" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<Label x:Name="label2_Copy2" Content="Back To User" Foreground="White" FontSize="24" FontFamily="Marker Felt" Opacity="0.8"/>
+							<ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+		</Style>
+		<Style x:Key="ButtonStyle21" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<ContentPresenter RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontFamily" Value="Marker Felt"/>
+			<Setter Property="FontSize" Value="40"/>
+			<Setter Property="Foreground" Value="White"/>
+		</Style>
+		<Style x:Key="ButtonStyle22" TargetType="{x:Type Button}">
+			<Setter Property="Template">
+				<Setter.Value>
+					<ControlTemplate TargetType="{x:Type Button}">
+						<Grid>
+							<ContentPresenter RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+						</Grid>
+						<ControlTemplate.Triggers>
+							<Trigger Property="IsFocused" Value="True"/>
+							<Trigger Property="IsDefaulted" Value="True"/>
+							<Trigger Property="IsMouseOver" Value="True"/>
+							<Trigger Property="IsPressed" Value="True"/>
+							<Trigger Property="IsEnabled" Value="False"/>
+						</ControlTemplate.Triggers>
+					</ControlTemplate>
+				</Setter.Value>
+			</Setter>
+			<Setter Property="FontFamily" Value="Marker Felt"/>
+			<Setter Property="FontSize" Value="21.333"/>
+			<Setter Property="Foreground" Value="White"/>
+		</Style>
+	</Window.Resources>
+    <Grid Margin="0,0,0,-3" HorizontalAlignment="Left" Width="800">
+    	<Grid.ColumnDefinitions>
+    		<ColumnDefinition/>
+    	</Grid.ColumnDefinitions>
+    	<Grid.RowDefinitions>
+    		<RowDefinition Height="0.976*"/>
+    		<RowDefinition Height="0.024*"/>
+    	</Grid.RowDefinitions>
+        <Grid x:Name="BackgroundMain" Margin="-9.905,0,0,3.25" Grid.RowSpan="2" HorizontalAlignment="Left" Width="793.36" >
+        	<Image Margin="-1,0,0,0" Source="EzyGoEzy Login2.jpg" Stretch="Fill" HorizontalAlignment="Left" Width="794.36" d:IsLocked="True"/>
+        </Grid>
+        <Grid x:Name="MainWindow1" HorizontalAlignment="Left" Width="262.545" Margin="0,-0.875,0,379.775" d:LayoutOverrides="GridBox">
+        	<Button x:Name="UserUIButton" Content="Button" Style="{DynamicResource ButtonStyle1}" Margin="9,11.361,0,0" Click="UserUIButton_Click" HorizontalAlignment="Left" Width="95.714" Height="34.889" VerticalAlignment="Top" MouseEnter="UserUIButton_MouseEnter" MouseLeave="UserUIButton_MouseLeave" Opacity="0.75" />
+        	<Button x:Name="AdminUIButton" Content="" HorizontalAlignment="Left" Margin="48.703,53.722,0,0" Style="{DynamicResource ButtonStyle3}" Width="48.935" Click="AdminUIButton_Click" MouseEnter="AdminUIButton_MouseEnter" MouseLeave="AdminUIButton_MouseLeave" Opacity="0.75" Height="19.528" VerticalAlignment="Top" />
+            <Button x:Name="SimulationButton" Content="Button" HorizontalAlignment="Left" Margin="56.524,66.247,0,-29.123" Style="{DynamicResource ButtonStyle2}" Width="41.713" Click="MainMenuSimulationButton_Click" MouseEnter="SimulationButton_MouseEnter" MouseLeave="SimulationButton_MouseLeave" Opacity="0.75" />
+            <Grid x:Name="MenuSelectGrid" Margin="103.548,50.139,-309.516,52.009">
+            	<Label x:Name="MenuSelectionBox" Content="" Margin="30.964,-25.5,209.117,0" RenderTransformOrigin="0.5,0.5" FontSize="32" FontFamily="Kozuka Gothic Pro EL" Foreground="#FF7594F3" Height="53" VerticalAlignment="Top" d:IsHidden="True">
+            		<Label.RenderTransform>
+            			<TransformGroup>
+            				<ScaleTransform/>
+            				<SkewTransform AngleX="-1.116"/>
+            				<RotateTransform/>
+            				<TranslateTransform X="3.338"/>
+            			</TransformGroup>
+            		</Label.RenderTransform>
+            	</Label>
+            	<TextBlock HorizontalAlignment="Right" TextWrapping="Wrap" Text="Please Select an Option" VerticalAlignment="Bottom" Margin="0,0,262.016,0" FontFamily="Marker Felt" FontSize="16" Foreground="#FF66A2E5" Opacity="0.8" d:IsHidden="True"/>
+            	<Ellipse Fill="#FF9DD1F1" Stroke="White" Height="20.202" VerticalAlignment="Top" HorizontalAlignment="Left" Width="20.358" d:IsHidden="True"/>
+            	<Path Data="M124.5,88 L376.01414,88" Fill="#FF2C91EF" Height="2.146" Margin="5.666,0,0,21.377" Stretch="Fill" Stroke="#FF64B9EF" VerticalAlignment="Bottom" Opacity="0.6" d:IsHidden="True"/>
+            </Grid>
+        </Grid>
+        <Grid x:Name="UserUI" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsHitTestVisible="True" Height="551" VerticalAlignment="Top" Grid.RowSpan="2" HorizontalAlignment="Left" Width="793.36" d:IsHidden="True">
+        	<Grid.RowDefinitions>
+        		<RowDefinition Height="0.354*"/>
+        		<RowDefinition Height="0.646*"/>
+        	</Grid.RowDefinitions>
+            <Ellipse Fill="#FF9DD1F1" HorizontalAlignment="Left" Margin="103.714,47.413,0,0" Stroke="White" Width="20.786" Height="24.659" VerticalAlignment="Top"/>
+            <TextBox Margin="49.381,0,0,25.076" TextWrapping="Wrap" x:Name="MobileNoBox" HorizontalAlignment="Left" Width="160.049" FontFamily="Marker Felt" FontSize="13.333" BorderThickness="1" BorderBrush="#FF96C1F1" Foreground="#FF609BDC" Height="22.333" VerticalAlignment="Bottom" />
+            <TextBlock Margin="49.381,0,0,47.409" TextWrapping="Wrap" FontFamily="Marker Felt" FontSize="24" Foreground="#FF6E8AE2" Height="37.5" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="184.833"><Run Language="vi-vn" Text="Mobile Number"/></TextBlock>
+            <PasswordBox Height="23.333" Margin="49.381,20.757,0,0" x:Name="PasswordBox1" VerticalAlignment="Top" FontSize="10.667" FontFamily="Marker Felt" Foreground="#FF96C1F1" BorderBrush="#FF96C1F1" HorizontalAlignment="Left" Grid.Row="1" Width="160.049" />
+            <TextBlock Margin="49.381,0,0,-16.757" TextWrapping="Wrap" Text="Password" FontFamily="Marker Felt" FontSize="24" Foreground="#FF6E8AE2" Height="37.833" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="107.049"/>
+            <TextBlock x:Name="LoginText" Height="61.975" Margin="146,32.616,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="48" HorizontalAlignment="Left" Width="135.943" Foreground="#FF9CC8F9" d:LayoutOverrides="VerticalAlignment"/>
+            <Path x:Name="Line" Data="M124.5,88 L376.01414,88" Fill="#FF2C91EF" Height="1.104" Margin="110.881,84.521,213.061,0" Stretch="Fill" Stroke="#FF64B9EF" VerticalAlignment="Top" Opacity="0.6"/>
+            <Button x:Name="LoginButton1" Content="Login" RenderTransformOrigin="0.5, 0.5" Margin="351.5,144.946,331.455,157" Grid.Row="1" Style="{DynamicResource ButtonStyle16}" Click="LoginClick" Foreground="#FF6EA5E2" FontSize="40" MouseEnter="RunSimulationButton_MouseEnter" MouseLeave="RunSimulationButton_MouseLeave" />
+            <Ellipse Fill="#FF9DD1F1" HorizontalAlignment="Right" Margin="0,170.787,315.669,174.736" Stroke="White" Width="8.786" Grid.Row="1"/>
+            <Button x:Name="RegisterButton1" Content="Register" RenderTransformOrigin="0.5, 0.5" HorizontalAlignment="Right" Margin="0,144.946,155.955,157" Grid.Row="1" Style="{DynamicResource ButtonStyle17}" Width="141" Click="RegisterUI" Foreground="#FF6EA5E2" FontSize="40" MouseEnter="RunSimulationButton_MouseEnter" MouseLeave="RunSimulationButton_MouseLeave" />
+            <Button x:Name="HomeButton_UserUI" Content="" RenderTransformOrigin="0.5, 0.5" HorizontalAlignment="Left" Height="31.333" Margin="24.833,0,0,26.576" Style="{DynamicResource ButtonStyle18}" VerticalAlignment="Bottom" Width="64" Click="HomeClick" Grid.Row="1" MouseEnter="RunSimulationButton_MouseEnter" MouseLeave="RunSimulationButton_MouseLeave" />
+            
+        </Grid>
+        <Grid x:Name="AdminUI" RenderTransformOrigin="0.502,0.375" Margin="127.5,27.673,0,0" Height="481.827" VerticalAlignment="Top" HorizontalAlignment="Left" Width="671.86" d:IsHidden="True">
+            <Grid x:Name="AdminUIGrid" Margin="0,-0.213,0,0">
+        		<Image Margin="-52.545,-14.999,0,-25.555" Source="UserUIBase.gif" Stretch="Fill" Opacity="0.9"/>
+        		<TextBlock HorizontalAlignment="Left" Margin="0,59.708,0,0" TextWrapping="Wrap" Text="Name" Width="48" Height="23" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16"/>
+        		<TextBox Height="23" HorizontalAlignment="Left" Margin="94.938,57.042,0,0" x:Name="AddBusStopTextBox" VerticalAlignment="Top" Width="120" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+				<TextBox Height="23" HorizontalAlignment="Left" Margin="94.938,84.208,0,0" x:Name="XCoordTextBox" VerticalAlignment="Top" Width="120" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+				<TextBox Height="23" HorizontalAlignment="Left" Margin="94.938,112.028,0,0" x:Name="YCoordTextBox" VerticalAlignment="Top" Width="120" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+				<TextBox HorizontalAlignment="Left" Margin="94.938,149.722,0,0" x:Name="AddBusSvcTextBox" Width="120" Height="23" VerticalAlignment="Top" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+				<TextBox HorizontalAlignment="Left" Margin="94.938,181.552,0,0" x:Name="FrequencyTextBox" Width="120" Height="23" VerticalAlignment="Top" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" d:LayoutOverrides="HorizontalAlignment" />
+				<TextBox HorizontalAlignment="Left" Margin="94.938,210.5,0,0" x:Name="T_VALTextbox" Width="120" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" Foreground="#FF464646" Height="23" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment" />
+				<TextBox Height="23" HorizontalAlignment="Left" Margin="94.938,0,0,217.673" x:Name="T_COSTTextbox" VerticalAlignment="Bottom" Width="120" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" Foreground="#FF464646" d:LayoutOverrides="HorizontalAlignment" />
+				<ComboBox Height="20.334" Margin="426,59.708,0,0" x:Name="BusStopCoOrdComboBox" VerticalAlignment="Top"  HorizontalAlignment="Left" Width="130.5" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" d:LayoutOverrides="VerticalAlignment" BorderBrush="{x:Null}" />
+        		<TextBox Height="23" HorizontalAlignment="Right" Margin="0,86.708,115.36,0" x:Name="ChangeXCoOrdTextBox" VerticalAlignment="Top" Width="130.5" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+        		<TextBox Height="23" HorizontalAlignment="Right" Margin="0,113.708,115.36,0" x:Name="ChangeYCoOrdTextBox" VerticalAlignment="Top" Width="130.5" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+				<ComboBox Height="23.432" HorizontalAlignment="Right" Margin="0,156.722,115.36,0" x:Name="BusServiceComboBox2" VerticalAlignment="Top" Width="130.5" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" d:LayoutOverrides="VerticalAlignment" BorderBrush="{x:Null}"  />
+				<ComboBox x:Name="FromComboBox" HorizontalAlignment="Right" Height="23.182" Margin="0,185.206,115.36,0" VerticalAlignment="Top" Width="131" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF464646"/>
+        		<ComboBox x:Name="ToComboBox" HorizontalAlignment="Right" Height="23.432" Margin="0,211.722,115.36,0" VerticalAlignment="Top" Width="131" BorderBrush="{x:Null}" Background="{x:Null}"/>
+				<TextBox HorizontalAlignment="Right" Margin="0,238.722,115.36,220.318" x:Name="TravelTimeTextBox" Width="130.5" Foreground="White" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+				<Button Margin="219.046,57.042,0,0" x:Name="AddBusStopButton" Click="AddBusStopClick" RenderTransformOrigin="0.466,0.46" Height="77.986" VerticalAlignment="Top" Foreground="White" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" HorizontalAlignment="Left" Width="70.667" BorderBrush="{x:Null}">
+        			<TextBlock><Run Text="Add"/><LineBreak/><Run Text="Bus"/><LineBreak/><Run Text="Stop"/></TextBlock>
+				</Button>
+        		
+        		<TextBlock Height="16" HorizontalAlignment="Left" Margin="0,181.552,0,0" x:Name="Frequency" Text="Frequency" VerticalAlignment="Top" Width="80.5" Foreground="White" FontFamily="Marker Felt" FontSize="16" />
+        		<Button Margin="219.046,149.722,0,0" x:Name="AddBusSvcButton" Click="AddBusSvcClick" RenderTransformOrigin="0.51,0.391" Foreground="White" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" HorizontalAlignment="Left" Width="70.667" Height="55.984" VerticalAlignment="Top" BorderBrush="{x:Null}"> 
+					<TextBlock TextAlignment="Center"><Run Text="Add"/><LineBreak/><Run Text="Bus"/></TextBlock>
+				</Button>
+        		<Button HorizontalAlignment="Right" Margin="0,156.722,26.364,220.318" x:Name="AddRouteButton" Width="76.628" Click="AddRouteClick" Foreground="White" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" BorderBrush="{x:Null}">        			
+					<TextBlock TextAlignment="Center"><Run Text="Add"/><LineBreak/><Run Text="Route"/></TextBlock>    		
+				</Button>
+        		<TextBlock Height="16" Margin="325,188.552,305.275,0" x:Name="textBlock1" Text="From" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16" d:LayoutOverrides="VerticalAlignment" />
+        		<TextBlock Height="16" Margin="325,217.5,305.275,0" x:Name="textBlock2" Text="To" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16" />
+        		<TextBlock Height="16" Margin="325,156.722,261.86,0" x:Name="textBlock3" Text="Bus Service" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16" d:LayoutOverrides="VerticalAlignment" />
+        		<TextBlock Height="16" Margin="325,0,261.86,224.673" x:Name="textBlock4" Text="Travel Time" VerticalAlignment="Bottom" Foreground="White" FontFamily="Marker Felt" FontSize="16" />
+        		<TextBlock Height="16" HorizontalAlignment="Left" Margin="0,149.722,0,0" x:Name="textBlock5" Text="Name" VerticalAlignment="Top" Width="85" Foreground="White" FontFamily="Marker Felt" FontSize="16" />
+        		<Button Content="View Bus Stops" HorizontalAlignment="Left" Margin="325,0,0,132.525" x:Name="DisplayBusStopsButton" Width="144.845" Click="DisplayBusStopsClick" Height="28" VerticalAlignment="Bottom" FontSize="14.667" FontFamily="Marker Felt" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" />
+        		<Button Content="View Bus Services" HorizontalAlignment="Left" Margin="511.25,0,0,132.525" x:Name="DisplayBusSerButton" Width="134.246" Click="DisplayBusSerClick" Height="28" VerticalAlignment="Bottom" FontSize="14.667" FontFamily="Marker Felt" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" />
+        		<TextBox HorizontalAlignment="Left" Margin="12.318,0,0,21.275" x:Name="AdminUITextBlock" Width="301.695" TextWrapping="WrapWithOverflow" Height="144.25" VerticalAlignment="Bottom" FontFamily="Marker Felt" FontSize="16" Opacity="0.9" Foreground="#FF464646" ScrollViewer.HorizontalScrollBarVisibility="Auto"
+            			 ScrollViewer.VerticalScrollBarVisibility="Auto"
+             			ScrollViewer.CanContentScroll="True" Background="White" d:LayoutOverrides="HorizontalAlignment" />
+        		<Button Content="View" HorizontalAlignment="Left" Margin="561.98,0,0,102.525" x:Name="DisplayBusRouteButton" Width="101.88" Click="DisplayBusRouteClick" Height="23" VerticalAlignment="Bottom" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" />
+        		<ComboBox HorizontalAlignment="Left" Margin="426,0,0,102.525" x:Name="BusRouteDispComboBox" Width="130.5" Height="23" VerticalAlignment="Bottom" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" Foreground="#FF464646" />
+				<ComboBox HorizontalAlignment="Right" Margin="0,0,115.36,63.673" x:Name="mobileJourneyTextBox" Width="130.5" Height="23" VerticalAlignment="Bottom" Foreground="#FF464646" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+        		<TextBlock HorizontalAlignment="Left" Margin="325,0,0,109.525" TextWrapping="Wrap" Text="Bus" Width="35.487" Height="16" VerticalAlignment="Bottom" FontSize="16" FontFamily="Marker Felt" Foreground="White"/>
+        		
+        		<TextBlock HorizontalAlignment="Left" Margin="0,210.5,0,0" x:Name="textBlock9" Text="T_VAL" Width="64" FontSize="16" FontFamily="Marker Felt" Foreground="White" Height="16" VerticalAlignment="Top" />
+        		<TextBlock Height="16" HorizontalAlignment="Left" Margin="-0.237,0,0,224.673" x:Name="textBlock10" Text="T_COST" VerticalAlignment="Bottom" Width="64" FontSize="16" FontFamily="Marker Felt" Foreground="White" />
+        		
+        		<Button Content="Update" HorizontalAlignment="Left" Margin="219.046,210.5,0,0" x:Name="button5" Width="70.667" Click="UpdateTVALClick" Height="23" VerticalAlignment="Top" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" Foreground="White" d:LayoutOverrides="HorizontalAlignment" BorderBrush="{x:Null}" />
+        		<Button Content="Update" Height="23" HorizontalAlignment="Left" Margin="219.046,0,0,217.673" x:Name="button6" VerticalAlignment="Bottom" Width="70.667" Click="UpdateTCOSTClick" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" Foreground="White" d:LayoutOverrides="HorizontalAlignment" BorderBrush="{x:Null}" />
+        		<Button x:Name="HomeButton_AdminUI" Content="" RenderTransformOrigin="0.5,0.5" Margin="-42.639,0,0,-27.66" Style="{DynamicResource ButtonStyle5}" MouseEnter="Button_MouseEnter_1" MouseLeave="Button_MouseLeave_1" HorizontalAlignment="Left" Width="95.139" Click="HomeClick" Height="49.333" VerticalAlignment="Bottom" />
+        		<TextBlock HorizontalAlignment="Left" Margin="12.318,0,0,174.525" TextWrapping="Wrap" Text="View Information" Width="191.938" FontFamily="Marker Felt" FontSize="24" Foreground="White" Height="26" VerticalAlignment="Bottom"/>
+        		<Path Data="M50.5,235.04 L524.13565,235.04" Fill="#FFF4F4F5" Margin="12.318,0,26.364,169.525" Stretch="Fill" Stroke="White" Height="1" VerticalAlignment="Bottom"/>
+        		<TextBlock x:Name="AdministratorTitle" Margin="25.818,18.04,182.682,0" TextWrapping="Wrap" Text="Administrator" FontFamily="Marker Felt" FontSize="24" Foreground="White" Height="26" VerticalAlignment="Top"/>
+        		<Path Data="M50.5,235.04 L524.13565,235.04" Fill="#FFF4F4F5" Margin="12.318,48.04,26.364,0" Stretch="Fill" Stroke="White" Height="1" VerticalAlignment="Top"/>
+        		
+        		<TextBlock HorizontalAlignment="Left" Margin="0,89.028,0,0" TextWrapping="Wrap" Text="Latitude" Width="71.5" Height="23" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16"/>
+        		<TextBlock HorizontalAlignment="Left" Margin="0,112.028,0,0" TextWrapping="Wrap" Text="Longitude" Width="79.639" Height="23" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16"/>
+        		<TextBlock Height="20.846" Margin="325,59.196,0,0" x:Name="textBlock1_Copy" Text="Bus Stop" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16" d:LayoutOverrides="VerticalAlignment" HorizontalAlignment="Left" Width="65.5" />
+        		
+        		<TextBlock Margin="325,86.708,275.36,0" TextWrapping="Wrap" Text="Latitude" Height="23" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16"/>
+        		<TextBlock Margin="325,113.708,264.647,0" TextWrapping="Wrap" Text="Longitude" Height="23" VerticalAlignment="Top" Foreground="White" FontFamily="Marker Felt" FontSize="16"/>
+        		<Button Margin="0,59.708,26.364,0" x:Name="UpdateCoOrdButton" Click="UpdateCoOrdClick" RenderTransformOrigin="0.466,0.46" Foreground="White" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" HorizontalAlignment="Right" Width="76.628" Height="75.32" VerticalAlignment="Top" BorderBrush="{x:Null}">  
+					<TextBlock TextAlignment="Center"><Run Text="Update"/><LineBreak/><Run Text="Bus"/><LineBreak/><Run Text="Stop"/></TextBlock>
+				</Button>
+        		<TextBlock Height="19.512" Margin="325,0,233.147,67.161" x:Name="textBlock5_Copy" Text="Mobile No" VerticalAlignment="Bottom" Foreground="White" FontFamily="Marker Felt" FontSize="16" />
+        		<Button Content="Journey Log" HorizontalAlignment="Left" Margin="561.98,0,0,57.673" x:Name="DisplayBusRouteButton_Copy" Width="101.88" Click="ViewJourney_Admin" Height="36.5" VerticalAlignment="Bottom" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" />
+        	</Grid>
+            <Grid x:Name="AdminLogInGrid" HorizontalAlignment="Right" Height="190.654" Margin="0,45.667,-16.022,0" VerticalAlignment="Top" Width="308" d:IsHidden="True">
+            	<Image Source="SimulationUI_BusInfo.gif" Stretch="Fill" Opacity="0.75"/>
+            	<TextBox x:Name="AdminUserName" HorizontalAlignment="Left" Margin="25.803,92.789,0,78.237" TextWrapping="Wrap" Width="122.969" FontFamily="Marker Felt" FontSize="13.333" Foreground="White" Background="{x:Null}"/>
+            	<PasswordBox x:Name="AdminPassword" HorizontalAlignment="Left" Margin="25.08,0,0,20.865" Width="122.969" Height="19.295" VerticalAlignment="Bottom" FontFamily="Marker Felt" FontSize="13.333" Foreground="White" Background="{x:Null}"/>
+            	<TextBlock Height="20.5" Margin="25.926,70.289,138.228,0" TextWrapping="Wrap" Text="User Name " VerticalAlignment="Top" Foreground="White" FontSize="16" FontFamily="Marker Felt"/>
+            	<TextBlock HorizontalAlignment="Left" Height="19.602" Margin="25.08,0,0,42.159" TextWrapping="Wrap" Text="Password" VerticalAlignment="Bottom" Width="87.179" Foreground="White" FontSize="16" FontFamily="Marker Felt"/>
+            	<Button x:Name="AdminLogInButton" Content="Login" HorizontalAlignment="Right" Height="47.166" Margin="0,0,23.022,23.428" RenderTransformOrigin="0.187,0.574" Style="{DynamicResource ButtonStyle21}" VerticalAlignment="Bottom" Width="108.218" Click="AdminLogIn_Click" MouseLeave="RunSimulationButton_MouseLeave" MouseEnter="RunSimulationButton_MouseEnter" />
+            	<TextBlock x:Name="AdminLoginText" Height="32.667" Margin="12.951,11.657,63.716,0" TextWrapping="Wrap" Text="Administrator Login" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="26.667" Foreground="White"/>
+            	<Button x:Name="HomeButton_AdminLogin" Content="" RenderTransformOrigin="0.5, 0.5" HorizontalAlignment="Left" Height="31.333" Margin="-482.167,0,0,-260.27" Style="{DynamicResource ButtonStyle18}" VerticalAlignment="Bottom" Width="64" Click="HomeClick" MouseEnter="RunSimulationButton_MouseEnter" MouseLeave="RunSimulationButton_MouseLeave" />
+            </Grid>
+        </Grid>
+        <Grid x:Name="Register" RenderTransformOrigin="0.531,0.774" HorizontalAlignment="Left" Width="783.455" Height="547" VerticalAlignment="Top" Grid.RowSpan="2" d:IsHidden="True">
+            <TextBlock Height="17.986" Margin="321.031,359.003,334.689,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="16" Foreground="#FF4D6CCE" Opacity="0.8"><Run Language="vi-vn" Text="Payment Mode 1" /></TextBlock>
+            <TextBlock Margin="0,268.12,339.63,260.894" TextWrapping="Wrap" FontFamily="Marker Felt" FontSize="16" Foreground="#FF4D6CCE" Opacity="0.8" HorizontalAlignment="Right" Width="51.798"><Run Language="vi-vn" Text="Mobile" /></TextBlock>
+            <TextBlock Height="17.986" Margin="0,0,335.689,201.423" TextWrapping="Wrap" VerticalAlignment="Bottom" FontFamily="Marker Felt" FontSize="16" Foreground="#FF4D6CCE" Opacity="0.8" RenderTransformOrigin="0.676,0.468" HorizontalAlignment="Right" Width="51.798"><Run Language="vi-vn" Text="CC No" /></TextBlock>
+            <TextBlock Margin="0,238.5,338.689,0" TextWrapping="Wrap" FontFamily="Marker Felt" FontSize="16" Height="17.986" VerticalAlignment="Top" Foreground="#FF4D6CCE" Opacity="0.8" HorizontalAlignment="Right" Width="46.465"><Run Language="vi-vn" Text="Name" /></TextBlock>
+            <TextBlock Margin="321.031,0,334.689,144.909" TextWrapping="Wrap" Height="17.986" VerticalAlignment="Bottom" FontFamily="Marker Felt" FontSize="16" Foreground="#FF4D6CCE" Opacity="0.8"><Run Language="vi-vn" Text="Payment Mode 2" /></TextBlock>
+            <TextBox Margin="0,238.5,210.622,0" TextWrapping="Wrap" x:Name="namebox" FontFamily="Marker Felt" Height="17.986" VerticalAlignment="Top" Foreground="#FF6E8AE2" HorizontalAlignment="Right" Width="110" />
+            <TextBox Margin="0,268.12,210.622,260.894" x:Name="MobileBox" TextWrapping="Wrap" FontFamily="Marker Felt" Foreground="#FF6E8AE2" HorizontalAlignment="Right" Width="110" />
+			 <PasswordBox HorizontalAlignment="Left" Margin="462.833,0,0,230.409" x:Name="RegisterPassBox" Width="110" FontFamily="Marker Felt" Height="17.986" VerticalAlignment="Bottom" Foreground="#FF6E8AE2" />
+            <TextBox Margin="0,0,210.622,201.423" TextWrapping="Wrap" x:Name="CCBox" Height="17.986" VerticalAlignment="Bottom" FontFamily="Marker Felt" Foreground="#FF6E8AE2" HorizontalAlignment="Right" Width="110" />
+            <ComboBox Height="19.986" Margin="0,0,210.622,170.011" VerticalAlignment="Bottom" x:Name="Payment1Box" FontFamily="Marker Felt" HorizontalAlignment="Right" Width="110">
+                <ComboBoxItem Content="Account" d:IsHidden="True"/>
+                <ComboBoxItem Content="Credit" d:IsHidden="True"/>
+                <ComboBoxItem Content="Mobile" d:IsHidden="True"/>
+            </ComboBox>
+            <ComboBox Height="19.986" Margin="0,0,210.622,142.909" VerticalAlignment="Bottom" x:Name="Payment2Box" FontFamily="Marker Felt" HorizontalAlignment="Right" Width="110">
+                <ComboBoxItem Content="Account" d:IsHidden="True"/>
+                <ComboBoxItem Content="Credit" d:IsHidden="True"/>
+                <ComboBoxItem Content="Mobile" d:IsHidden="True"/>
+            </ComboBox>
+            <TextBlock Margin="374.968,0,333.689,230.409" TextWrapping="Wrap" Text="Password" FontFamily="Marker Felt" FontSize="16" Height="17.986" VerticalAlignment="Bottom" Foreground="#FF4D6CCE" Opacity="0.8"/>
+            <Button x:Name="HomeButton_RegisterUI" RenderTransformOrigin="0.5, 0.5" Content="" HorizontalAlignment="Left" Margin="24.833,0,0,22.576" Style="{DynamicResource ButtonStyle18}" Width="64" Click="HomeClick" MouseEnter="RunSimulationButton_MouseEnter" MouseLeave="RunSimulationButton_MouseLeave" Height="31.333" VerticalAlignment="Bottom" />
+            <TextBlock x:Name="RegisterText" Height="61.975" Margin="146,32.616,0,0" TextWrapping="Wrap" Text="Register" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="48" HorizontalAlignment="Left" Width="182.61" Foreground="#FF9CC8F9" d:LayoutOverrides="VerticalAlignment"/>
+            <Path x:Name="Line_Copy" Data="M124.5,88 L376.01414,88" Fill="#FF2C91EF" Height="1.104" Margin="110.881,84.521,213.061,0" Stretch="Fill" Stroke="#FF64B9EF" VerticalAlignment="Top" Opacity="0.6"/>
+            <Ellipse Fill="#FF9DD1F1" HorizontalAlignment="Left" Margin="103.714,47.413,0,0" Stroke="White" Width="20.786" Height="24.659" VerticalAlignment="Top"/>
+            <TextBlock x:Name="InstructionText" Height="25.909" Margin="24.833,89.625,232.728,0" TextWrapping="Wrap" Text="Please Fill in your particulars to register with the system." VerticalAlignment="Top" FontSize="20" FontFamily="Marker Felt" Foreground="#FF4D6CCE" LineHeight="29.333" Opacity="0.7"/>
+            <Button x:Name="RegisterButton" Content="Register" HorizontalAlignment="Right" Height="49.988" Margin="0,359.003,25.324,0" Style="{DynamicResource ButtonStyle19}" VerticalAlignment="Top" Width="144.5" Click="RegisterUser"/>
+        </Grid>
+        <Grid Height="452.761" x:Name="UserLoggedIn" VerticalAlignment="Top" Margin="226.955,46.301,0,0" HorizontalAlignment="Left" Width="553.545" d:IsHidden="True">
+            <Image Margin="-21.004,-14.999,-22.996,-17.334" Source="UserUIBase.gif" Stretch="Fill" Opacity="0.8"/>
+            <Label Content="Credit Card No." HorizontalAlignment="Left" Margin="0.34,106.5,0,0" x:Name="label1" Width="101.264" Height="25" VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment" FontFamily="Marker Felt" FontSize="13.333" Background="#00000000" Foreground="White" />
+            <Label Content="Top-Up Card #" Height="29.001" HorizontalAlignment="Left" Margin="0.34,77.499,0,0" x:Name="label2" VerticalAlignment="Top" Width="101.264" FontSize="13.333" Foreground="White" />
+            <TextBox Height="141" HorizontalAlignment="Left" Margin="23.618,262,0,0" x:Name="LogTextBox" VerticalAlignment="Top" Width="252.382" TextWrapping="WrapWithOverflow" />
+            <TextBox Height="23" Margin="99.135,77.499,0,0" x:Name="TopupCardNumTextBox" VerticalAlignment="Top" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" Foreground="Black" HorizontalAlignment="Left" Width="108.212" />
+			<TextBox HorizontalAlignment="Left" Margin="99.135,106.5,0,0" x:Name="DispCCNum" Width="108.212" Height="22.25" VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" Foreground="Black"/>
+			 <ComboBox Height="23" HorizontalAlignment="Left" Margin="99.135,133.5,0,0" x:Name="PaymentMode1ComboBox" VerticalAlignment="Top" Width="108.212" Background="{x:Null}" BorderBrush="{x:Null}" d:LayoutOverrides="VerticalAlignment"> 
+				<ComboBoxItem Content="Account" d:IsHidden="True"/>
+                <ComboBoxItem Content="Credit" d:IsHidden="True"/>
+                <ComboBoxItem Content="Mobile" d:IsHidden="True"/>
+			</ComboBox>
+            <ComboBox Height="23" HorizontalAlignment="Left" Margin="99.135,160.5,0,0" x:Name="PaymentMode2ComboBox" VerticalAlignment="Top" Width="108.212" Background="{x:Null}" BorderBrush="{x:Null}" d:LayoutOverrides="VerticalAlignment"> 
+				<ComboBoxItem Content="Account" d:IsHidden="True"/>
+                <ComboBoxItem Content="Credit" d:IsHidden="True"/>
+                <ComboBoxItem Content="Mobile" d:IsHidden="True"/>
+			</ComboBox>
+			<ComboBox Height="23" HorizontalAlignment="Right" Margin="0,108.5,86,0" x:Name="SubBusSMSComboBox" VerticalAlignment="Top" Width="151.045" d:LayoutOverrides="VerticalAlignment" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" />
+			<ComboBox Height="23" HorizontalAlignment="Right" Margin="0,144,86,0" x:Name="SubBusStopSMSComboBox" VerticalAlignment="Top" Width="151.045" d:LayoutOverrides="VerticalAlignment" Background="{x:Null}" BorderBrush="{x:Null}" />
+			<ComboBox Height="23" HorizontalAlignment="Right" Margin="0,262,87.913,0" x:Name="UnsubBusSMSComboBox" VerticalAlignment="Top" Width="149.132" BorderBrush="{x:Null}" Background="{x:Null}" />
+			<ComboBox Height="23" HorizontalAlignment="Right" Margin="0,313.357,87.913,0" x:Name="UnsubBusstopSMSComboBox" VerticalAlignment="Top" Width="149.132" BorderBrush="{x:Null}" Background="{x:Null}" />
+			
+			<Button Content="TopUp" Height="24.884" Margin="219.422,78.616,0,0" x:Name="TopUpPrepaidButton" VerticalAlignment="Top" Click="TopUpPrepaidCard" Background="{x:Null}" FontSize="16" FontFamily="Marker Felt" Foreground="White" BorderBrush="{x:Null}" RenderTransformOrigin="0.478,0.436" HorizontalAlignment="Left" Width="56.578" />
+			<Button Content="Update" Height="23" Margin="219.422,108.5,275.5,0" x:Name="UpdateCCNoButton" VerticalAlignment="Top" Click="UpdateCCNoClick" FontFamily="Marker Felt" FontSize="16" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" />
+			<Button Content="Update" Height="23" Margin="219.422,135.5,275.5,0" x:Name="UpdatePM1Button" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="16" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="UpdatePM1Click" />
+			<Button Content="Update" Height="23" Margin="219.422,160.5,275.5,0" x:Name="UpdatePM2Button" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="16" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="UpdatePM2Click" />
+			<Button Content="Bus" Height="28" Margin="0,106.5,0,0" x:Name="SubBusSMSButton" VerticalAlignment="Top" Click="SubBusSMSClick" HorizontalAlignment="Right" Width="73.242" d:LayoutOverrides="VerticalAlignment" FontSize="16" FontFamily="Marker Felt" Foreground="White" Background="{x:Null}" BorderBrush="{x:Null}" />
+            <Button Content="Bus Stop " Height="28" Margin="0,144,0,0" x:Name="SubBusstopSMSButton" VerticalAlignment="Top" Click="SubBusStopSMSClick" HorizontalAlignment="Right" Width="73.242" d:LayoutOverrides="VerticalAlignment" Foreground="White" BorderBrush="{x:Null}" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+            <Button Content="Bus " Height="27.5" Margin="0,262,0,0" x:Name="UnsubBusSMSButton" VerticalAlignment="Top" Click="UnsubBusSMSClick" HorizontalAlignment="Right" Width="73.242" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" FontFamily="Marker Felt" FontSize="16" />
+            <Button Content="Bus Stop " Height="27.5" Margin="0,0,0,111.904" x:Name="UnsubBusstopSMSButton" VerticalAlignment="Bottom" Click="UnsubBusstopSMSClick" HorizontalAlignment="Right" Width="73.242" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" FontFamily="Marker Felt" FontSize="16" RenderTransformOrigin="0.478,0.449" />
+			<Button Content="Journey Log" Margin="23.618,0,0,194.761" x:Name="JourneyHistoryButton" Click="JourneyHistoryClick" HorizontalAlignment="Left" Width="88.105" FontFamily="Marker Felt" FontSize="13.333" Background="{x:Null}" BorderThickness="1,1,0,1" Foreground="White" BorderBrush="{x:Null}" Height="24.455" VerticalAlignment="Bottom" />
+			<Button Content="SMS log" Margin="143.937,0,0,194.761" x:Name="SMSLogButton" Click="SMSLogButton_Click" HorizontalAlignment="Left" Width="96.105" FontFamily="Marker Felt" FontSize="13.333" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Height="24.455" VerticalAlignment="Bottom" />
+			<Button Content="Log Out" Height="38.807" Margin="0,387.084,59.333,0" x:Name="LogOutButton" VerticalAlignment="Top" Click="BacktoUserPageClick" HorizontalAlignment="Right" Width="100.242" Foreground="White" BorderBrush="{x:Null}" Background="{x:Null}" FontFamily="Marker Felt" FontSize="24" />
+			
+            <Label Content="Subscribe" Height="31.001" Margin="0,38.498,143.586,0" x:Name="label2_Copy" VerticalAlignment="Top" FontSize="24" Foreground="White" FontFamily="Marker Felt" Opacity="0.8" HorizontalAlignment="Right" Width="113.459" />
+            <Path Data="M280.5,43 L553.545,43" Fill="#FFF4F4F5" HorizontalAlignment="Right" Height="1.116" Margin="0,68.5,-15,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top" Width="270.045"/>
+            <Label Content="Unsubscribe" Margin="0,188.983,56.333,0" x:Name="label2_Copy1" FontSize="24" Foreground="White" FontFamily="Marker Felt" Opacity="0.8" Height="33.856" VerticalAlignment="Top" HorizontalAlignment="Right" Width="196.039" />
+            <Path Data="M280.5,43 L553.545,43" Fill="#FFF4F4F5" HorizontalAlignment="Right" Height="1.116" Margin="0,222.839,-5,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top" Width="270.045"/>
+            <Button x:Name="HomeButton_UserLoggedInUI" Content="" RenderTransformOrigin="0.5,0.5" Margin="-10,0,0,-15.834" Style="{DynamicResource ButtonStyle5}" MouseEnter="Button_MouseEnter_1" MouseLeave="Button_MouseLeave_1" HorizontalAlignment="Left" Width="95.139" Click="HomeClick" Height="49.333" VerticalAlignment="Bottom" />
+            <TextBlock x:Name="UserWelcomeText" Height="30.498" Margin="50.264,-2,-5,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="26.667" Foreground="White" Opacity="0.8" Text="Welcome User"/>
+            <Path Data="M280.5,43 L553.545,43" Fill="#FFF4F4F5" HorizontalAlignment="Right" Height="1.092" Margin="0,0,-18,20.278" Stretch="Fill" Stroke="White" VerticalAlignment="Bottom" Width="201.045"/>
+            <Label Content="Select a Service to Subscribe to the SMS notification service" Height="26.001" HorizontalAlignment="Right" Margin="0,77.499,-5,0" x:Name="label2_Copy2" VerticalAlignment="Top" Width="257.372" FontSize="9.333" Foreground="White" FontFamily="Marker Felt" Opacity="0.8" />
+            <Label Content="Select a Service to Unsubscribe from the SMS notification service" HorizontalAlignment="Right" Margin="0,0,-22.996,198.805" x:Name="label2_Copy3" Width="275.368" FontSize="9.333" Foreground="White" FontFamily="Marker Felt" Opacity="0.8" Height="26.001" VerticalAlignment="Bottom" />
+            <Label Content="Account Details" Height="31.001" HorizontalAlignment="Left" Margin="5,38.498,0,0" x:Name="label2_Copy4" VerticalAlignment="Top" Width="174.459" FontSize="24" Foreground="White" FontFamily="Marker Felt" Opacity="0.8" />
+            <Path Data="M280.5,43 L553.545,43" Fill="#FFF4F4F5" Height="1.116" Margin="8,68.383,275.5,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top"/>
+            
+            <Label Content="Payment Mode 1" HorizontalAlignment="Left" Margin="-7.664,131.5,0,0" x:Name="label1_Copy" Width="116.139" Height="25" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="13.333" Background="#00000000" Foreground="White" d:LayoutOverrides="VerticalAlignment" />
+            <Label Content="Payment Mode 2" HorizontalAlignment="Left" Margin="-7.664,156.5,0,0" x:Name="label1_Copy1" Width="116.139" Height="25" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="13.333" Background="#00000000" Foreground="White" d:LayoutOverrides="VerticalAlignment" />
+            <Label Content="View Log" HorizontalAlignment="Left" Margin="8,188.983,0,223.216" x:Name="label2_Copy5" Width="156.459" FontSize="24" Foreground="White" FontFamily="Marker Felt" Opacity="0.8" />
+            <Path Data="M280.5,43 L553.545,43" Fill="#FFF4F4F5" Height="1.116" Margin="8,223.267,275.5,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" x:Name="SimulationUI" Width="712.5" Height="495.327" Margin="87.832,27.673,0,0" VerticalAlignment="Top" ClipToBounds="True">
+        	<Grid x:Name="SimulationManagerGrid" Height="481.827" Width="594" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="118.5,0,0,6">
+        		<Image Margin="-11.639,-1.334,-0.222,0" Source="New_base3.gif" Stretch="Fill" Opacity="0.87"/>
+        		<ComboBox Height="23" HorizontalAlignment="Left" Margin="10.861,106.875,0,0" x:Name="MobileNoTextBox" VerticalAlignment="Top" Width="107" d:LayoutOverrides="VerticalAlignment" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" Foreground="Black" />
+        		<ComboBox Height="23" HorizontalAlignment="Left" Margin="129.861,106.875,0,0" x:Name="StartingBusStop" VerticalAlignment="Top" Width="116.5" d:LayoutOverrides="HorizontalAlignment" DropDownClosed="UpdateBusServiceForBusStop" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" />
+        		<ComboBox Height="23" HorizontalAlignment="Left" Margin="270.861,106.875,0,0" x:Name="BusService2" VerticalAlignment="Top" Width="120" ItemsSource="{Binding}" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" />
+        		<Button Content="Start Trip&#xa;" Height="23" HorizontalAlignment="Left" Margin="403.861,106.875,0,0" x:Name="StartTripButton" VerticalAlignment="Top" Width="75" Click="StartTripClick" d:LayoutOverrides="VerticalAlignment" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" />
+        		
+        		<ComboBox Margin="10.861,195.875,0,0" x:Name="BusInterruptComboBox" DropDownClosed="UpdateNextBusStopForBus" Height="23" VerticalAlignment="Top"  FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF464646" HorizontalAlignment="Left" Width="107" />
+        		<ComboBox Margin="129.861,195.875,0,0" x:Name="NextBusInterruptComboBox" HorizontalAlignment="Left" Width="116.5" Height="23" VerticalAlignment="Top" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF464646" />
+        		<Button
+        			Content="Set Interrupt" Margin="270.861,195.875,0,0" x:Name="SetInterruptButton" Click="SetInterruptClick" HorizontalAlignment="Left" Width="120" Height="23" VerticalAlignment="Top" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White"/>
+        		
+        		<ComboBox Height="23" Margin="10.861,0,0,169.354" x:Name="BSInterruptComboBox" VerticalAlignment="Bottom" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF464646" HorizontalAlignment="Left" Width="107" />
+        		<Button Content="Set Interrupt" Height="22.598" HorizontalAlignment="Left" Margin="129.861,0,0,169.354" x:Name="SetBusStopInterruptButton" VerticalAlignment="Bottom" Width="116.5" Click="SetBSInterruptClick" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" />
+        		<ComboBox Height="23" Margin="270.861,0,203.139,169.354" x:Name="RemoveInterruptCombo" VerticalAlignment="Bottom" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF464646" RenderTransformOrigin="0.5,0.5" DropDownOpened="UpdateBusStopInterruptCombo" />
+        		<Button Content="Remove Interrupt" Height="22.598" Margin="403.861,0,0,169.354" x:Name="RemoveBusStopInterruptButton" VerticalAlignment="Bottom" Click="RevBSInterruptClick" HorizontalAlignment="Left" Width="134" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" />
+        		
+        		<ComboBox Height="22.598" HorizontalAlignment="Left" Margin="10.861,384.327,0,0" x:Name="TopUpComboBox" VerticalAlignment="Top" Width="107" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF464646">
+        			<ComboBoxItem Content="10" d:IsHidden="True"/>
+        			<ComboBoxItem Content="20" d:IsHidden="True"/>
+        			<ComboBoxItem Content="50" d:IsHidden="True"/>
+        		</ComboBox>
+        		<Button Content="Buy Prepaid Card" Height="27" HorizontalAlignment="Left" Margin="129.861,384.327,0,0" x:Name="BuyPrepaidCardButton" VerticalAlignment="Top" Width="128" Click="BuyPrepaidCardClick" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" />
+        		<Button Content="Reset System" Height="27" Margin="270.861,0,0,70.5" x:Name="ResetButton" VerticalAlignment="Bottom" Click="ResetButtonClick" HorizontalAlignment="Left" Width="120" FontSize="16" FontFamily="Marker Felt" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" />
+        		<Button x:Name="ManagerToSimulatoinButton" Content="" RenderTransformOrigin="0.5, 0.5" Height="42.667" Margin="0,0,6.5,24.431" Style="{DynamicResource ButtonStyle13}" VerticalAlignment="Bottom" Click="Button_Click_2" HorizontalAlignment="Right" Width="144.002" MouseEnter="RunSimulationButton_MouseEnter" MouseLeave="RunSimulationButton_MouseLeave" />
+        		<Button x:Name="HomeButton_SimulationManager" Content="" RenderTransformOrigin="0.5,0.5" Margin="10.861,0,0,4.716" Style="{DynamicResource ButtonStyle5}" MouseEnter="Button_MouseEnter_1" MouseLeave="Button_MouseLeave_1" HorizontalAlignment="Left" Width="95.139" Click="HomeClick" Height="49.333" VerticalAlignment="Bottom" />
+        		
+        		<TextBlock Height="23" HorizontalAlignment="Left" Margin="10.861,83.875,0,0" x:Name="textBlock6" Text="MobileNumber" VerticalAlignment="Top" Foreground="White" />
+        		<TextBlock Height="23" HorizontalAlignment="Left" Margin="129.861,83.875,0,0" x:Name="textBlock7" Text="BusStop" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment" Foreground="White" />
+        		<TextBlock Height="23" HorizontalAlignment="Left" Margin="270.861,83.875,0,0" x:Name="textBlock8" Text="Bus Service" VerticalAlignment="Top" Foreground="White" />
+        		<Label
+        			Content="Bus Name" Margin="7.861,168.875,0,0" HorizontalAlignment="Left" Width="73" Background="#00000000" Foreground="White" Height="27" VerticalAlignment="Top"/>
+        		<Label
+        			Content="Next Bus Stop" HorizontalAlignment="Left" Margin="129.861,167.844,0,0" Width="89" Background="#00000000" Foreground="White" Height="27" VerticalAlignment="Top"/>
+        		<Label Content="Bus Stop" Height="27" HorizontalAlignment="Left" Margin="7.861,0,0,191.952" VerticalAlignment="Bottom" Width="73" Foreground="White" />
+        		
+        		<Label Content="Amount to Top Up" Foreground="White" Height="27" HorizontalAlignment="Left" Margin="9.861,0,0,97.5" VerticalAlignment="Bottom" Width="112.5" />
+        		<Path Data="M528,338.665 L196.5,338.665" Fill="#FFF4F4F5" Height="4" Margin="0,0,-2,28.21" Stretch="Fill" Stroke="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="244.833"/>
+        		<TextBlock x:Name="SimulationManagerTItle" Height="35" Margin="46.5,10.827,230.139,0" TextWrapping="Wrap" Text="Simulation Manager" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="32" Foreground="White" Opacity="0.8"/>
+        		<Path Data="M314.55467,45.827 L0,45.827" Fill="#FFF4F4F5" Height="1.04" Margin="0,47.807,223.778,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top" Opacity="0.8"/>
+        		<TextBlock x:Name="QpassengersText" Height="23.733" Margin="72.333,58.313,0,0" TextWrapping="Wrap" Text="Queue Passengers" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="21.333" Foreground="White" Opacity="0.8" HorizontalAlignment="Left" Width="174.028"/>
+        		<Path Data="M314.55467,45.827 L0,45.827" Fill="#FFF4F4F5" Height="1.562" Margin="59,82.046,-0.222,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top" Opacity="0.8"/>
+        		<TextBlock x:Name="SetBusInterruptsText" Height="23.733" Margin="72.333,141.142,0,0" TextWrapping="Wrap" Text="Set Bus Interrupts" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="21.333" Foreground="White" Opacity="0.8" HorizontalAlignment="Left" Width="174.028"/>
+        		<Path Data="M314.55467,45.827 L0,45.827" Fill="#FFF4F4F5" Height="1.562" Margin="59,165.546,-0.222,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top" Opacity="0.8"/>
+        		<TextBlock x:Name="SetBusStopIntertuptsText" Margin="72.333,235.375,0,222.719" TextWrapping="Wrap" Text="Set Bus Stop Interrupts" FontFamily="Marker Felt" FontSize="21.333" Foreground="White" Opacity="0.8" HorizontalAlignment="Left" Width="224.028"/>
+        		<Path Data="M314.55467,45.827 L0,45.827" Fill="#FFF4F4F5" Margin="59,0,-0.222,219.719" Stretch="Fill" Stroke="White" Opacity="0.8" Height="1.562" VerticalAlignment="Bottom"/>
+        		<TextBlock x:Name="TopUpText" Margin="72.333,0,0,127.392" TextWrapping="Wrap" Text="Top Up" FontFamily="Marker Felt" FontSize="21.333" Foreground="White" Opacity="0.8" HorizontalAlignment="Left" Width="174.028" Height="23.733" VerticalAlignment="Bottom"/>
+        		<Path Data="M314.55467,45.827 L0,45.827" Fill="#FFF4F4F5" Margin="59,0,-0.222,124.392" Stretch="Fill" Stroke="White" Opacity="0.8" Height="1.562" VerticalAlignment="Bottom"/>
+        		<Grid x:Name="TripStartedGrid" HorizontalAlignment="Right" Height="72.047" Margin="0,5.999,-157.412,0" VerticalAlignment="Top" Width="151.453">
+        			<TextBlock x:Name="NotificationText" Margin="9.203,13.501,5.332,9.563" TextWrapping="Wrap" FontFamily="Marker Felt" FontSize="18.667" Foreground="White" d:IsHidden="True"><Run Text="Trip Started"/></TextBlock>
+        			<Image Source="Manager_TripStarted_border.gif" Stretch="Fill" d:IsHidden="True"/>
+        		</Grid>
+        	</Grid>
+        	<Grid x:Name="SimulationGrid" Margin="0,-8,0,5" HorizontalAlignment="Left" Width="712.5" Opacity="0.95" ClipToBounds="True" d:IsHidden="True">
+        		<Grid.ColumnDefinitions>
+        			<ColumnDefinition Width="0.281*"/>
+        			<ColumnDefinition Width="0.719*"/>
+        		</Grid.ColumnDefinitions>
+        		<Image Grid.ColumnSpan="2" Margin="0,8,-12.75,0" Source="New_base3.gif" Stretch="Fill" Opacity="0.95" HorizontalAlignment="Right" Width="728"/>
+        		<Grid x:Name="AlightingMenuGrid" Grid.Column="1" Height="99" Margin="131.108,0,215.196,-124.745" VerticalAlignment="Bottom">
+        			<Image x:Name="AlightPassengerBorder" Source="SimulationUI_AlightingBorder.gif" Stretch="Fill" Opacity="0.6"/>
+        			<TextBlock x:Name="AlightPassengerText" Margin="8.892,10.531,5.834,29.969" TextWrapping="Wrap" Text="Alight Passenger" Foreground="White" FontFamily="Marker Felt" FontSize="21.333"/>
+        			<Button x:Name="AlightPassengerYes" Content="Yes" Height="27.302" Margin="26.227,0,0,15.5" Style="{DynamicResource ButtonStyle14}" VerticalAlignment="Bottom" Click="AlightPassengerYes_Click" HorizontalAlignment="Left" Width="35.102" FontSize="24" />
+        			<Button x:Name="AlightPassengerNo" Content="No" HorizontalAlignment="Right" Height="27.302" Margin="0,0,26.989,15.5" Style="{DynamicResource ButtonStyle15}" VerticalAlignment="Bottom" Width="35.27" Click="AlightPassengerNo_Click" FontSize="24" />
+        			<Button
+        				x:Name="HopOnUser1" Content="Submit" HorizontalAlignment="Left" Margin="61.329,0,0,8.5" Width="48.174" Click="HopOnUser1_Click" Height="25.069" VerticalAlignment="Bottom" FontSize="13.333" FontFamily="Marker Felt" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}"/>
+        			<ComboBox
+        				x:Name="HopOnUserBox1" Margin="31.56,40.051,0,38.468" HorizontalAlignment="Left" Width="107.436"/>
+        			<TextBlock x:Name="HopOnBusUserText" Margin="10.073,10.716,0,0" TextWrapping="Wrap" Text="User" FontFamily="Marker Felt" FontSize="24" Foreground="White" HorizontalAlignment="Left" Width="57.501" Height="31" VerticalAlignment="Top"/>
+        		</Grid>
+        		<Grid x:Name="MapGrid" Grid.Column="1" Margin="64.368,25.827,0,107.69" ClipToBounds="True">
+        			<Grid.ColumnDefinitions>
+        				<ColumnDefinition Width="0.407*"/>
+        				<ColumnDefinition Width="0.593*"/>
+        			</Grid.ColumnDefinitions>
+        			<Grid.BindingGroup>
+        				<BindingGroup />
+        			</Grid.BindingGroup>
+        			<Canvas x:Name="MapBoundary" Margin="1,8,20,0" ClipToBounds="True" Grid.ColumnSpan="2">
+        				<Image x:Name="Map" RenderTransformOrigin="0.5,0.5" Height="362.31" Source="pack://siteoforigin:,,,/SimpleMap.jpg" Stretch="Fill" Width="434" MouseMove="image_MouseMove" MouseDown="image_MouseLeftButtonDown" MouseUp="image_MouseLeftButtonUp" MouseWheel="image_MouseWheel" d:IsHidden="True" />
+        				<Canvas x:Name="BusStopButtonLayer" RenderTransformOrigin="0.5,0.5" Height="362.31" Width="434" d:IsHidden="True"/>
+        			</Canvas>
+        			<Canvas x:Name="BusInfoCanvas" Margin="0,8,-193.776,43.66" Grid.Column="1" MouseLeave="BusInfoCanvas_MouseLeave" HorizontalAlignment="Right" Width="169.394">
+        				<Image Source="SimulationUI_BusInfo.gif" Stretch="Fill" Opacity="0.9" Height="313.15" Width="169.396" Canvas.Top="7.5"/>
+        				<TextBlock x:Name="BusStopNameText" Height="38.333" TextWrapping="Wrap" Foreground="White" FontFamily="Marker Felt" FontSize="14.667" Canvas.Left="8.668" Canvas.Top="15.689" Width="126.32"><Run Text="TextBlock"/><LineBreak/><Run Text="e"/></TextBlock>
+        				<TextBlock x:Name="BusAtStopText" Height="28" TextWrapping="Wrap" Foreground="White" FontFamily="Marker Felt" FontSize="16" Canvas.Left="23.396" Canvas.Top="79.19" Width="138"><Run Text="TextBlock"/><LineBreak/><Run Text="a"/></TextBlock>
+        				<TextBlock x:Name="PassengersAtStopText" TextWrapping="WrapWithOverflow" Foreground="White" FontFamily="Marker Felt" FontSize="13.333" Height="43" Canvas.Left="23.396" Canvas.Top="136.864" Width="138"><Run Text="TextBlock"/><LineBreak/><Run Text="j"/><LineBreak/><Run Text="j"/></TextBlock>
+        				<TextBlock x:Name="PassengersOnBusText" TextWrapping="WrapWithOverflow" Foreground="White" FontFamily="Marker Felt" FontSize="13.333" Height="40.96" Canvas.Left="23.396" Canvas.Top="264.69" Width="138"/>
+        				<ComboBox x:Name="BusAtBusStopComboBox" Height="17.5" Canvas.Left="11.472" Canvas.Top="218.357" Width="62.333" FontSize="10.667"/>
+        				<Button x:Name="PassengerOnBusAtBusSTopButton" Content="Submit" Height="17.5" Width="50.17" FontSize="9.333" FontFamily="Marker Felt" FontWeight="Bold" Canvas.Left="80.82" Canvas.Top="218.357" Click="PassengerOnBusAtBusSTopButton_MouseDown" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" />
+        				<TextBlock Height="13.668" Canvas.Left="12.67" TextWrapping="Wrap" Text="Buses at Bus Stop" Canvas.Top="60.689" Width="126.32" FontFamily="Marker Felt" Foreground="White"/>
+        				<Path Data="M11.563264,66.5 L151.5996,66.5" Fill="#FFF4F4F5" Height="1.122" Canvas.Left="8.668" Stretch="Fill" Stroke="White" Canvas.Top="74.439" Width="158.432"/>
+        				<TextBlock Height="13.668" Canvas.Left="14.67" TextWrapping="Wrap" Text="Passengers at Bus Stop" Canvas.Top="118.196" Width="126.32" FontFamily="Marker Felt" Foreground="White"/>
+        				<Path Data="M11.563264,66.5 L151.5996,66.5" Fill="#FFF4F4F5" Height="1.122" Canvas.Left="8.668" Stretch="Fill" Stroke="White" Canvas.Top="131.946" Width="158.432"/>
+        				<TextBlock Height="13.668" Canvas.Left="12.67" TextWrapping="Wrap" Text="Please Select a Bus Service" Canvas.Top="190.857" Width="139.82" FontFamily="Marker Felt" Foreground="White"/>
+        				<Path Data="M11.563264,66.5 L151.5996,66.5" Fill="#FFF4F4F5" Height="1.122" Canvas.Left="8.668" Stretch="Fill" Stroke="White" Canvas.Top="204.607" Width="158.432"/>
+        				<TextBlock Height="13.668" Canvas.Left="12.67" TextWrapping="Wrap" Text="Passengers on Board" Canvas.Top="246.857" Width="139.82" FontFamily="Marker Felt" Foreground="White"/>
+        				<Path Data="M11.563264,66.5 L151.5996,66.5" Fill="#FFF4F4F5" Height="1.122" Canvas.Left="8.668" Stretch="Fill" Stroke="White" Canvas.Top="260.607" Width="158.432"/>
+        			</Canvas>
+        			<Grid x:Name="LegendGrid" Grid.Column="1" Height="132" Margin="-40.383,0,39,-115.248" VerticalAlignment="Bottom" Opacity="0.7" MouseDown="LegendGrid_MouseDown" MouseEnter="LegendGrid_MouseEnter" MouseLeave="LegendGrid_MouseLeave">
+        				<Image Source="Legend.gif" Stretch="Fill" Opacity="0.9" Margin="8,2,3,8"/>
+        				<TextBlock Margin="63,58.514,42.001,54.153" TextWrapping="Wrap" Text="Bus Is at Bus Stop" FontSize="16" FontFamily="Marker Felt"/>
+        				<TextBlock Margin="63,0,8,84.167" TextWrapping="Wrap" Text="User Queued at Bus Stop" FontSize="16" FontFamily="Marker Felt" Height="19.333" VerticalAlignment="Bottom"/>
+        				<TextBlock Height="19.333" Margin="63,0,42.001,22.804" TextWrapping="Wrap" Text="Bus Stop Is Interrupted" VerticalAlignment="Bottom" FontSize="16" FontFamily="Marker Felt"/>
+        			</Grid>
+        		</Grid>
+        		<Grid x:Name="BottomPanelGrid1" Grid.Column="1" HorizontalAlignment="Left" Height="89.2" Margin="-163.468,0,0,-1" VerticalAlignment="Bottom" Width="342.908">
+        			<Button x:Name="HomeButton_Simulation" Content="" RenderTransformOrigin="0.5,0.5" Margin="-21,35.367,0,4.5" Style="{DynamicResource ButtonStyle5}" MouseEnter="Button_MouseEnter_1" MouseLeave="Button_MouseLeave_1" HorizontalAlignment="Left" Width="95.139" Click="HomeClick" />
+        			<Button Content="RunSimulationButton" RenderTransformOrigin="0.5,0.5" Margin="78.139,39.942,85.703,8" Style="{DynamicResource ButtonStyle7}" Click="StartSimulationSlick" MouseEnter="RunSimulationButton_MouseEnter" MouseLeave="RunSimulationButton_MouseLeave" />
+        			<TextBlock Margin="0,-16.467,53.149,0" TextWrapping="Wrap" Text="Time:" FontFamily="Marker Felt" FontSize="16" Foreground="#FFF7F7F7" Opacity="0.8" HorizontalAlignment="Right" Height="23" VerticalAlignment="Top" Width="59.134"/>
+        			<TextBlock x:Name="SimulationTime" Margin="0,-15.467,-54.774,0" TextWrapping="Wrap" Foreground="White" FontFamily="Marker Felt" FontSize="14.667" Opacity="0.8" HorizontalAlignment="Right" Width="120.182" Height="23" VerticalAlignment="Top"/>
+        		</Grid>
+        		<Grid x:Name="LeftPanelGrid" Margin="12.5,22.827,-37.866,64.167">
+        			<Image Margin="11,167.09,-3,62.931" Source="SimulationUI_Status.gif" Stretch="Fill" Opacity="0.9"/>
+        			<Label Content="STATUS" Margin="15.557,180.296,0,197.332" FontFamily="Marker Felt" FontSize="24" Foreground="White" HorizontalAlignment="Left" Width="92.697" />
+        			<TextBox Margin="17.762,0,10.998,74.997" x:Name="SimulationBox" TextWrapping="WrapWithOverflow" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True" Background="{x:Null}" BorderThickness="0" Foreground="White" Height="118.335" VerticalAlignment="Bottom" FontFamily="Marker Felt" FontSize="13.333"/>
+        			<Image Margin="11,0,-3,0" Source="SimulationUI_SMS.gif" Stretch="Fill" Height="163.09" VerticalAlignment="Top" Opacity="0.9"/>
+        			<TextBox Height="88.89" HorizontalAlignment="Left" Margin="23.762,56.334,0,0" x:Name="SmsNoticeBoard" ScrollViewer.CanContentScroll="True" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.VerticalScrollBarVisibility="Auto" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width="193.816" Background="{x:Null}" BorderThickness="0" TextChanged="SmsNoticeBoard_TextChanged" Foreground="White" FontFamily="Marker Felt" FontSize="13.333" />
+        			<Label Content="SMS " Height="33.705" Margin="16.069,10.627,0,0" VerticalAlignment="Top" FontFamily="Marker Felt" FontSize="24" Foreground="White" HorizontalAlignment="Left" Width="64.362" />
+        			<ComboBox Height="24.333" HorizontalAlignment="Left" x:Name="UserMobileNoTextbox" VerticalAlignment="Top" Width="100.999" Margin="11,379,0,0" d:LayoutOverrides="HorizontalAlignment" Foreground="Black" Background="{x:Null}" FontFamily="Marker Felt" FontSize="16" />
+        			<Button Content="Get User Status" HorizontalAlignment="Left" Margin="115.999,0,0,8" x:Name="DisplayBusRouteButton_Copy2" Width="99.381" Click="GetUserStatusClick" Height="24.333" VerticalAlignment="Bottom" FontSize="13.333" FontFamily="Marker Felt" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" />
+        			<Label Content="Enter Mobile Number to check for User Status" Margin="11,0,10.998,32.333" x:Name="label2_Copy6" FontSize="9.333" Foreground="White" FontFamily="Marker Felt" Opacity="0.8" Height="26" VerticalAlignment="Bottom" />
+        		</Grid>
+        		<Path Data="M528,338.665 L196.5,338.665" Fill="#FFF4F4F5" Height="5.469" Margin="0,0,2.443,19.963" Stretch="Fill" Stroke="White" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="197.886" Grid.Column="1"/>
+        		<Button x:Name="SimulationManagerButton" Content="Simulation Manager" RenderTransformOrigin="0.5, 0.5"  HorizontalAlignment="Right" Height="34.364" Margin="0,0,-12.355,12.439" Style="{DynamicResource ButtonStyle22}" VerticalAlignment="Bottom" Width="210.5" Click="Button_Click_1" Grid.Column="1" MouseLeave="RunSimulationButton_MouseLeave" MouseEnter="RunSimulationButton_MouseEnter"/>
+        	</Grid>
+        </Grid>
+    </Grid>
+</Window>

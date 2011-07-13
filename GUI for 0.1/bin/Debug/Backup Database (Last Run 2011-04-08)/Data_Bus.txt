@@ -1,0 +1,131 @@
+$START BUSLIST$
+
+$$START BUS$$
+A1%%20%3
+$$$START ROUTELIST$$$
+PGP Terminal%2
+After Science Park Drive%3
+NUH%1
+LT29%1
+University Hall%2
+Opp Staff Club%1
+Yusof Ishak House%1
+Central Library%1
+LT13%1
+AS7%3
+COM2%3
+BIZ2%1
+Opp House 12%2
+House 7%0
+$$$END ROUTELIST$$$
+$$$START PASSENGERLIST$$$
+$$$END PASSENGERLIST$$$
+$$$START SUBSCRIBELIST$$$
+91159375
+96104376
+$$$END SUBSCRIBELIST$$$
+$$END BUS$$
+
+$$START BUS$$
+A2%%25%0
+$$$START ROUTELIST$$$
+PGP Terminal%1
+Between House 14 and 15%1
+House 12%5
+Opp Hon Sui Sen Memorial Library%1
+COM2%2
+Temasek Hall%1
+Eusoff Hall%1
+Opp LT13%1
+Computer Centre%1
+Opp Yusof Ishak House%2
+Office of Estate and Development%1
+Staff Club%2
+Opp University Hall%1
+School of Computing 1%1
+Opp NUH%0
+$$$END ROUTELIST$$$
+$$$START PASSENGERLIST$$$
+$$$END PASSENGERLIST$$$
+$$$START SUBSCRIBELIST$$$
+$$$END SUBSCRIBELIST$$$
+$$END BUS$$
+
+$$START BUS$$
+B%%10%0
+$$$START ROUTELIST$$$
+The Japanese School%3
+E3A%1
+Office of Estate and Development%2
+Yusof Ishak House%1
+Central Library%1
+LT13%1
+AS7%3
+COM2%2
+Temasek Hall%1
+Eusoff Hall%1
+Opp LT13%2
+Computer Centre%1
+Opp Yusof Ishak House%2
+Raffles Hall%1
+Opp Blk EA%0
+$$$END ROUTELIST$$$
+$$$START PASSENGERLIST$$$
+$$$END PASSENGERLIST$$$
+$$$START SUBSCRIBELIST$$$
+$$$END SUBSCRIBELIST$$$
+$$END BUS$$
+
+$$START BUS$$
+C%%12%0
+$$$START ROUTELIST$$$
+The Japanese School%3
+E3A%1
+Office of Estate and Development%2
+Staff Club%1
+Opp University Hall%3
+School of Computing 1%2
+LT29%1
+University Hall%1
+Opp Staff Club%2
+Raffles Hall%1
+Opp Blk EA%0
+$$$END ROUTELIST$$$
+$$$START PASSENGERLIST$$$
+$$$END PASSENGERLIST$$$
+$$$START SUBSCRIBELIST$$$
+$$$END SUBSCRIBELIST$$$
+$$END BUS$$
+
+$$START BUS$$
+D%%4%0
+$$$START ROUTELIST$$$
+Opp Hon Sui Sen Memorial Library%2
+Opp LT13%1
+Computer Centre%3
+Opp University Hall%1
+School of Computing 1%1
+LT29%1
+University Hall%1
+Yusof Ishak House%1
+Central Library%1
+LT13%3
+BIZ2%0
+$$$END ROUTELIST$$$
+$$$START PASSENGERLIST$$$
+$$$END PASSENGERLIST$$$
+$$$START SUBSCRIBELIST$$$
+$$$END SUBSCRIBELIST$$$
+$$END BUS$$
+
+$$START BUS$$
+a6%%6%0
+$$$START ROUTELIST$$$
+$$$END ROUTELIST$$$
+$$$START PASSENGERLIST$$$
+$$$END PASSENGERLIST$$$
+$$$START SUBSCRIBELIST$$$
+$$$END SUBSCRIBELIST$$$
+$$END BUS$$
+
+$END BUSLIST$

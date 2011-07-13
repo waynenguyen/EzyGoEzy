@@ -1,0 +1,941 @@
+$START SYSTEMDATA$
+5%2%1487%False
+$$START SYSTEMSMSLOG$$
+19%At time 19 Ngo Tuan Vu mobile account has been deducted by 2
+80%At time 80 Ngo Tuan Vu mobile account has been deducted by 2
+125%At time 125 Paul Averilla mobile account has been deducted by 2
+141%At time 141 Ngo Tuan Vu mobile account has been deducted by 2
+141%At time 141 Paul Averilla mobile account has been deducted by 2
+142%At time 142 Nguyen Hoang Duy mobile account has been deducted by 2
+147%At time 147 Ngo Tuan Vu mobile account has been deducted by 2
+147%At time 147 Paul Averilla mobile account has been deducted by 2
+148%At time 148 Nguyen Hoang Duy mobile account has been deducted by 2
+153%At time 153 Ngo Tuan Vu mobile account has been deducted by 2
+153%At time 153 Paul Averilla mobile account has been deducted by 2
+154%At time 154 Nguyen Hoang Duy mobile account has been deducted by 2
+159%At time 159 Ngo Tuan Vu mobile account has been deducted by 2
+159%At time 159 Paul Averilla mobile account has been deducted by 2
+160%At time 160 Nguyen Hoang Duy mobile account has been deducted by 2
+162%At time 162 Teo Kai Ren mobile account has been deducted by 2
+165%At time 165 Ngo Tuan Vu mobile account has been deducted by 2
+165%At time 165 Paul Averilla mobile account has been deducted by 2
+166%At time 166 Nguyen Hoang Duy mobile account has been deducted by 2
+168%At time 168 Teo Kai Ren mobile account has been deducted by 2
+171%At time 171 Ngo Tuan Vu mobile account has been deducted by 2
+171%At time 171 Paul Averilla mobile account has been deducted by 2
+172%At time 172 Nguyen Hoang Duy mobile account has been deducted by 2
+174%At time 174 Teo Kai Ren mobile account has been deducted by 2
+177%At time 177 Ngo Tuan Vu mobile account has been deducted by 2
+177%At time 177 Paul Averilla mobile account has been deducted by 2
+178%At time 178 Nguyen Hoang Duy mobile account has been deducted by 2
+180%At time 180 Teo Kai Ren mobile account has been deducted by 2
+183%At time 183 Ngo Tuan Vu mobile account has been deducted by 2
+183%At time 183 Paul Averilla mobile account has been deducted by 2
+184%At time 184 Nguyen Hoang Duy mobile account has been deducted by 2
+186%At time 186 Teo Kai Ren mobile account has been deducted by 2
+189%At time 189 Ngo Tuan Vu mobile account has been deducted by 2
+189%At time 189 Paul Averilla mobile account has been deducted by 2
+190%At time 190 Nguyen Hoang Duy mobile account has been deducted by 2
+192%At time 192 Teo Kai Ren mobile account has been deducted by 2
+195%At time 195 Ngo Tuan Vu mobile account has been deducted by 2
+195%At time 195 Paul Averilla mobile account has been deducted by 2
+196%At time 196 Nguyen Hoang Duy mobile account has been deducted by 2
+198%At time 198 Teo Kai Ren mobile account has been deducted by 2
+201%At time 201 Ngo Tuan Vu mobile account has been deducted by 2
+201%At time 201 Paul Averilla mobile account has been deducted by 2
+202%At time 202 Nguyen Hoang Duy mobile account has been deducted by 2
+204%At time 204 Teo Kai Ren mobile account has been deducted by 2
+207%At time 207 Ngo Tuan Vu mobile account has been deducted by 2
+207%At time 207 Paul Averilla mobile account has been deducted by 2
+208%At time 208 Nguyen Hoang Duy mobile account has been deducted by 2
+210%At time 210 Teo Kai Ren mobile account has been deducted by 2
+213%At time 213 Ngo Tuan Vu mobile account has been deducted by 2
+213%At time 213 Paul Averilla mobile account has been deducted by 2
+214%At time 214 Nguyen Hoang Duy mobile account has been deducted by 2
+216%At time 216 Teo Kai Ren mobile account has been deducted by 2
+219%At time 219 Ngo Tuan Vu mobile account has been deducted by 2
+219%At time 219 Paul Averilla mobile account has been deducted by 2
+220%At time 220 Nguyen Hoang Duy mobile account has been deducted by 2
+222%At time 222 Teo Kai Ren mobile account has been deducted by 2
+225%At time 225 Ngo Tuan Vu mobile account has been deducted by 2
+225%At time 225 Paul Averilla mobile account has been deducted by 2
+226%At time 226 Nguyen Hoang Duy mobile account has been deducted by 2
+228%At time 228 Teo Kai Ren mobile account has been deducted by 2
+231%At time 231 Ngo Tuan Vu mobile account has been deducted by 2
+231%At time 231 Paul Averilla mobile account has been deducted by 2
+232%At time 232 Nguyen Hoang Duy mobile account has been deducted by 2
+234%At time 234 Teo Kai Ren mobile account has been deducted by 2
+237%At time 237 Ngo Tuan Vu mobile account has been deducted by 2
+237%At time 237 Paul Averilla mobile account has been deducted by 2
+238%At time 238 Nguyen Hoang Duy mobile account has been deducted by 2
+240%At time 240 Teo Kai Ren mobile account has been deducted by 2
+243%At time 243 Ngo Tuan Vu mobile account has been deducted by 2
+243%At time 243 Paul Averilla mobile account has been deducted by 2
+244%At time 244 Nguyen Hoang Duy mobile account has been deducted by 2
+246%At time 246 Teo Kai Ren mobile account has been deducted by 2
+249%At time 249 Ngo Tuan Vu mobile account has been deducted by 2
+249%At time 249 Paul Averilla mobile account has been deducted by 2
+250%At time 250 Nguyen Hoang Duy mobile account has been deducted by 2
+252%At time 252 Teo Kai Ren mobile account has been deducted by 2
+255%At time 255 Ngo Tuan Vu mobile account has been deducted by 2
+255%At time 255 Paul Averilla mobile account has been deducted by 2
+256%At time 256 Nguyen Hoang Duy mobile account has been deducted by 2
+258%At time 258 Teo Kai Ren mobile account has been deducted by 2
+261%At time 261 Ngo Tuan Vu mobile account has been deducted by 2
+261%At time 261 Paul Averilla mobile account has been deducted by 2
+262%At time 262 Nguyen Hoang Duy mobile account has been deducted by 2
+264%At time 264 Teo Kai Ren mobile account has been deducted by 2
+267%At time 267 Ngo Tuan Vu mobile account has been deducted by 2
+267%At time 267 Paul Averilla mobile account has been deducted by 2
+268%At time 268 Nguyen Hoang Duy mobile account has been deducted by 2
+270%At time 270 Teo Kai Ren mobile account has been deducted by 2
+273%At time 273 Ngo Tuan Vu mobile account has been deducted by 2
+273%At time 273 Paul Averilla mobile account has been deducted by 2
+274%At time 274 Nguyen Hoang Duy mobile account has been deducted by 2
+276%At time 276 Teo Kai Ren mobile account has been deducted by 2
+279%At time 279 Ngo Tuan Vu mobile account has been deducted by 2
+279%At time 279 Paul Averilla mobile account has been deducted by 2
+280%At time 280 Nguyen Hoang Duy mobile account has been deducted by 2
+282%At time 282 Teo Kai Ren mobile account has been deducted by 2
+285%At time 285 Ngo Tuan Vu mobile account has been deducted by 2
+285%At time 285 Paul Averilla mobile account has been deducted by 2
+286%At time 286 Nguyen Hoang Duy mobile account has been deducted by 2
+288%At time 288 Teo Kai Ren mobile account has been deducted by 2
+291%At time 291 Ngo Tuan Vu mobile account has been deducted by 2
+291%At time 291 Paul Averilla mobile account has been deducted by 2
+292%At time 292 Nguyen Hoang Duy mobile account has been deducted by 2
+294%At time 294 Teo Kai Ren mobile account has been deducted by 2
+297%At time 297 Ngo Tuan Vu mobile account has been deducted by 2
+297%At time 297 Paul Averilla mobile account has been deducted by 2
+298%At time 298 Nguyen Hoang Duy mobile account has been deducted by 2
+300%At time 300 Teo Kai Ren mobile account has been deducted by 2
+303%At time 303 Ngo Tuan Vu mobile account has been deducted by 2
+303%At time 303 Paul Averilla mobile account has been deducted by 2
+304%At time 304 Nguyen Hoang Duy mobile account has been deducted by 2
+306%At time 306 Teo Kai Ren mobile account has been deducted by 2
+309%At time 309 Ngo Tuan Vu mobile account has been deducted by 2
+309%At time 309 Paul Averilla mobile account has been deducted by 2
+310%At time 310 Nguyen Hoang Duy mobile account has been deducted by 2
+312%At time 312 Teo Kai Ren mobile account has been deducted by 2
+315%At time 315 Ngo Tuan Vu mobile account has been deducted by 2
+315%At time 315 Paul Averilla mobile account has been deducted by 2
+316%At time 316 Nguyen Hoang Duy mobile account has been deducted by 2
+318%At time 318 Teo Kai Ren mobile account has been deducted by 2
+321%At time 321 Ngo Tuan Vu mobile account has been deducted by 2
+321%At time 321 Paul Averilla mobile account has been deducted by 2
+322%At time 322 Nguyen Hoang Duy mobile account has been deducted by 2
+324%At time 324 Teo Kai Ren mobile account has been deducted by 2
+327%At time 327 Ngo Tuan Vu mobile account has been deducted by 2
+327%At time 327 Paul Averilla mobile account has been deducted by 2
+328%At time 328 Nguyen Hoang Duy mobile account has been deducted by 2
+330%At time 330 Teo Kai Ren mobile account has been deducted by 2
+333%At time 333 Ngo Tuan Vu mobile account has been deducted by 2
+333%At time 333 Paul Averilla mobile account has been deducted by 2
+334%At time 334 Nguyen Hoang Duy mobile account has been deducted by 2
+336%At time 336 Teo Kai Ren mobile account has been deducted by 2
+339%At time 339 Ngo Tuan Vu mobile account has been deducted by 2
+339%At time 339 Paul Averilla mobile account has been deducted by 2
+340%At time 340 Nguyen Hoang Duy mobile account has been deducted by 2
+342%At time 342 Teo Kai Ren mobile account has been deducted by 2
+345%At time 345 Ngo Tuan Vu mobile account has been deducted by 2
+345%At time 345 Paul Averilla mobile account has been deducted by 2
+346%At time 346 Nguyen Hoang Duy mobile account has been deducted by 2
+348%At time 348 Teo Kai Ren mobile account has been deducted by 2
+351%At time 351 Ngo Tuan Vu mobile account has been deducted by 2
+351%At time 351 Paul Averilla mobile account has been deducted by 2
+352%At time 352 Nguyen Hoang Duy mobile account has been deducted by 2
+354%At time 354 Teo Kai Ren mobile account has been deducted by 2
+357%At time 357 Ngo Tuan Vu mobile account has been deducted by 2
+357%At time 357 Paul Averilla mobile account has been deducted by 2
+358%At time 358 Nguyen Hoang Duy mobile account has been deducted by 2
+360%At time 360 Teo Kai Ren mobile account has been deducted by 2
+363%At time 363 Ngo Tuan Vu mobile account has been deducted by 2
+363%At time 363 Paul Averilla mobile account has been deducted by 2
+364%At time 364 Nguyen Hoang Duy mobile account has been deducted by 2
+366%At time 366 Teo Kai Ren mobile account has been deducted by 2
+369%At time 369 Ngo Tuan Vu mobile account has been deducted by 2
+369%At time 369 Paul Averilla mobile account has been deducted by 2
+370%At time 370 Nguyen Hoang Duy mobile account has been deducted by 2
+372%At time 372 Teo Kai Ren mobile account has been deducted by 2
+375%At time 375 Ngo Tuan Vu mobile account has been deducted by 2
+375%At time 375 Paul Averilla mobile account has been deducted by 2
+376%At time 376 Nguyen Hoang Duy mobile account has been deducted by 2
+378%At time 378 Teo Kai Ren mobile account has been deducted by 2
+381%At time 381 Ngo Tuan Vu mobile account has been deducted by 2
+381%At time 381 Paul Averilla mobile account has been deducted by 2
+382%At time 382 Nguyen Hoang Duy mobile account has been deducted by 2
+384%At time 384 Teo Kai Ren mobile account has been deducted by 2
+387%At time 387 Ngo Tuan Vu mobile account has been deducted by 2
+387%At time 387 Paul Averilla mobile account has been deducted by 2
+388%At time 388 Nguyen Hoang Duy mobile account has been deducted by 2
+390%At time 390 Teo Kai Ren mobile account has been deducted by 2
+393%At time 393 Ngo Tuan Vu mobile account has been deducted by 2
+393%At time 393 Paul Averilla mobile account has been deducted by 2
+394%At time 394 Nguyen Hoang Duy mobile account has been deducted by 2
+396%At time 396 Teo Kai Ren mobile account has been deducted by 2
+399%At time 399 Ngo Tuan Vu mobile account has been deducted by 2
+399%At time 399 Paul Averilla mobile account has been deducted by 2
+400%At time 400 Nguyen Hoang Duy mobile account has been deducted by 2
+402%At time 402 Teo Kai Ren mobile account has been deducted by 2
+405%At time 405 Ngo Tuan Vu mobile account has been deducted by 2
+405%At time 405 Paul Averilla mobile account has been deducted by 2
+406%At time 406 Nguyen Hoang Duy mobile account has been deducted by 2
+408%At time 408 Teo Kai Ren mobile account has been deducted by 2
+411%At time 411 Ngo Tuan Vu mobile account has been deducted by 2
+411%At time 411 Paul Averilla mobile account has been deducted by 2
+412%At time 412 Nguyen Hoang Duy mobile account has been deducted by 2
+414%At time 414 Teo Kai Ren mobile account has been deducted by 2
+417%At time 417 Ngo Tuan Vu mobile account has been deducted by 2
+417%At time 417 Paul Averilla mobile account has been deducted by 2
+418%At time 418 Nguyen Hoang Duy mobile account has been deducted by 2
+420%At time 420 Teo Kai Ren mobile account has been deducted by 2
+423%At time 423 Ngo Tuan Vu mobile account has been deducted by 2
+423%At time 423 Paul Averilla mobile account has been deducted by 2
+424%At time 424 Nguyen Hoang Duy mobile account has been deducted by 2
+426%At time 426 Teo Kai Ren mobile account has been deducted by 2
+429%At time 429 Ngo Tuan Vu mobile account has been deducted by 2
+429%At time 429 Paul Averilla mobile account has been deducted by 2
+430%At time 430 Nguyen Hoang Duy mobile account has been deducted by 2
+432%At time 432 Teo Kai Ren mobile account has been deducted by 2
+435%At time 435 Ngo Tuan Vu mobile account has been deducted by 2
+435%At time 435 Paul Averilla mobile account has been deducted by 2
+436%At time 436 Nguyen Hoang Duy mobile account has been deducted by 2
+438%At time 438 Teo Kai Ren mobile account has been deducted by 2
+441%At time 441 Ngo Tuan Vu mobile account has been deducted by 2
+441%At time 441 Paul Averilla mobile account has been deducted by 2
+442%At time 442 Nguyen Hoang Duy mobile account has been deducted by 2
+444%At time 444 Teo Kai Ren mobile account has been deducted by 2
+447%At time 447 Ngo Tuan Vu mobile account has been deducted by 2
+447%At time 447 Paul Averilla mobile account has been deducted by 2
+448%At time 448 Nguyen Hoang Duy mobile account has been deducted by 2
+450%At time 450 Teo Kai Ren mobile account has been deducted by 2
+453%At time 453 Ngo Tuan Vu mobile account has been deducted by 2
+453%At time 453 Paul Averilla mobile account has been deducted by 2
+454%At time 454 Nguyen Hoang Duy mobile account has been deducted by 2
+456%At time 456 Teo Kai Ren mobile account has been deducted by 2
+459%At time 459 Ngo Tuan Vu mobile account has been deducted by 2
+459%At time 459 Paul Averilla mobile account has been deducted by 2
+460%At time 460 Nguyen Hoang Duy mobile account has been deducted by 2
+462%At time 462 Teo Kai Ren mobile account has been deducted by 2
+465%At time 465 Ngo Tuan Vu mobile account has been deducted by 2
+465%At time 465 Paul Averilla mobile account has been deducted by 2
+466%At time 466 Nguyen Hoang Duy mobile account has been deducted by 2
+468%At time 468 Teo Kai Ren mobile account has been deducted by 2
+471%At time 471 Ngo Tuan Vu mobile account has been deducted by 2
+471%At time 471 Paul Averilla mobile account has been deducted by 2
+472%At time 472 Nguyen Hoang Duy mobile account has been deducted by 2
+474%At time 474 Teo Kai Ren mobile account has been deducted by 2
+477%At time 477 Ngo Tuan Vu mobile account has been deducted by 2
+477%At time 477 Paul Averilla mobile account has been deducted by 2
+478%At time 478 Nguyen Hoang Duy mobile account has been deducted by 2
+480%At time 480 Teo Kai Ren mobile account has been deducted by 2
+483%At time 483 Ngo Tuan Vu mobile account has been deducted by 2
+483%At time 483 Paul Averilla mobile account has been deducted by 2
+484%At time 484 Nguyen Hoang Duy mobile account has been deducted by 2
+486%At time 486 Teo Kai Ren mobile account has been deducted by 2
+489%At time 489 Ngo Tuan Vu mobile account has been deducted by 2
+489%At time 489 Paul Averilla mobile account has been deducted by 2
+490%At time 490 Nguyen Hoang Duy mobile account has been deducted by 2
+492%At time 492 Teo Kai Ren mobile account has been deducted by 2
+495%At time 495 Ngo Tuan Vu mobile account has been deducted by 2
+495%At time 495 Paul Averilla mobile account has been deducted by 2
+496%At time 496 Nguyen Hoang Duy mobile account has been deducted by 2
+498%At time 498 Teo Kai Ren mobile account has been deducted by 2
+501%At time 501 Ngo Tuan Vu mobile account has been deducted by 2
+501%At time 501 Paul Averilla mobile account has been deducted by 2
+502%At time 502 Nguyen Hoang Duy mobile account has been deducted by 2
+504%At time 504 Teo Kai Ren mobile account has been deducted by 2
+507%At time 507 Ngo Tuan Vu mobile account has been deducted by 2
+507%At time 507 Paul Averilla mobile account has been deducted by 2
+508%At time 508 Nguyen Hoang Duy mobile account has been deducted by 2
+510%At time 510 Teo Kai Ren mobile account has been deducted by 2
+513%At time 513 Ngo Tuan Vu mobile account has been deducted by 2
+513%At time 513 Paul Averilla mobile account has been deducted by 2
+514%At time 514 Nguyen Hoang Duy mobile account has been deducted by 2
+516%At time 516 Teo Kai Ren mobile account has been deducted by 2
+519%At time 519 Ngo Tuan Vu mobile account has been deducted by 2
+519%At time 519 Paul Averilla mobile account has been deducted by 2
+520%At time 520 Nguyen Hoang Duy mobile account has been deducted by 2
+522%At time 522 Teo Kai Ren mobile account has been deducted by 2
+525%At time 525 Ngo Tuan Vu mobile account has been deducted by 2
+525%At time 525 Paul Averilla mobile account has been deducted by 2
+526%At time 526 Nguyen Hoang Duy mobile account has been deducted by 2
+528%At time 528 Teo Kai Ren mobile account has been deducted by 2
+531%At time 531 Ngo Tuan Vu mobile account has been deducted by 2
+531%At time 531 Paul Averilla mobile account has been deducted by 2
+532%At time 532 Nguyen Hoang Duy mobile account has been deducted by 2
+534%At time 534 Teo Kai Ren mobile account has been deducted by 2
+537%At time 537 Ngo Tuan Vu mobile account has been deducted by 2
+537%At time 537 Paul Averilla mobile account has been deducted by 2
+538%At time 538 Nguyen Hoang Duy mobile account has been deducted by 2
+540%At time 540 Teo Kai Ren mobile account has been deducted by 2
+543%At time 543 Ngo Tuan Vu mobile account has been deducted by 2
+543%At time 543 Paul Averilla mobile account has been deducted by 2
+544%At time 544 Nguyen Hoang Duy mobile account has been deducted by 2
+546%At time 546 Teo Kai Ren mobile account has been deducted by 2
+549%At time 549 Ngo Tuan Vu mobile account has been deducted by 2
+549%At time 549 Paul Averilla mobile account has been deducted by 2
+550%At time 550 Nguyen Hoang Duy mobile account has been deducted by 2
+552%At time 552 Teo Kai Ren mobile account has been deducted by 2
+555%At time 555 Ngo Tuan Vu mobile account has been deducted by 2
+555%At time 555 Paul Averilla mobile account has been deducted by 2
+556%At time 556 Nguyen Hoang Duy mobile account has been deducted by 2
+558%At time 558 Teo Kai Ren mobile account has been deducted by 2
+561%At time 561 Ngo Tuan Vu mobile account has been deducted by 2
+561%At time 561 Paul Averilla mobile account has been deducted by 2
+562%At time 562 Nguyen Hoang Duy mobile account has been deducted by 2
+564%At time 564 Teo Kai Ren mobile account has been deducted by 2
+567%At time 567 Ngo Tuan Vu mobile account has been deducted by 2
+567%At time 567 Paul Averilla mobile account has been deducted by 2
+568%At time 568 Nguyen Hoang Duy mobile account has been deducted by 2
+570%At time 570 Teo Kai Ren mobile account has been deducted by 2
+573%At time 573 Ngo Tuan Vu mobile account has been deducted by 2
+573%At time 573 Paul Averilla mobile account has been deducted by 2
+574%At time 574 Nguyen Hoang Duy mobile account has been deducted by 2
+576%At time 576 Teo Kai Ren mobile account has been deducted by 2
+579%At time 579 Ngo Tuan Vu mobile account has been deducted by 2
+579%At time 579 Paul Averilla mobile account has been deducted by 2
+580%At time 580 Nguyen Hoang Duy mobile account has been deducted by 2
+582%At time 582 Teo Kai Ren mobile account has been deducted by 2
+585%At time 585 Ngo Tuan Vu mobile account has been deducted by 2
+585%At time 585 Paul Averilla mobile account has been deducted by 2
+586%At time 586 Nguyen Hoang Duy mobile account has been deducted by 2
+588%At time 588 Teo Kai Ren mobile account has been deducted by 2
+591%At time 591 Ngo Tuan Vu mobile account has been deducted by 2
+591%At time 591 Paul Averilla mobile account has been deducted by 2
+592%At time 592 Nguyen Hoang Duy mobile account has been deducted by 2
+594%At time 594 Teo Kai Ren mobile account has been deducted by 2
+597%At time 597 Ngo Tuan Vu mobile account has been deducted by 2
+597%At time 597 Paul Averilla mobile account has been deducted by 2
+598%At time 598 Nguyen Hoang Duy mobile account has been deducted by 2
+600%At time 600 Teo Kai Ren mobile account has been deducted by 2
+603%At time 603 Ngo Tuan Vu mobile account has been deducted by 2
+603%At time 603 Paul Averilla mobile account has been deducted by 2
+604%At time 604 Nguyen Hoang Duy mobile account has been deducted by 2
+606%At time 606 Teo Kai Ren mobile account has been deducted by 2
+609%At time 609 Ngo Tuan Vu mobile account has been deducted by 2
+609%At time 609 Paul Averilla mobile account has been deducted by 2
+610%At time 610 Nguyen Hoang Duy mobile account has been deducted by 2
+612%At time 612 Teo Kai Ren mobile account has been deducted by 2
+615%At time 615 Ngo Tuan Vu mobile account has been deducted by 2
+615%At time 615 Paul Averilla mobile account has been deducted by 2
+616%At time 616 Nguyen Hoang Duy mobile account has been deducted by 2
+618%At time 618 Teo Kai Ren mobile account has been deducted by 2
+621%At time 621 Ngo Tuan Vu mobile account has been deducted by 2
+621%At time 621 Paul Averilla mobile account has been deducted by 2
+622%At time 622 Nguyen Hoang Duy mobile account has been deducted by 2
+624%At time 624 Teo Kai Ren mobile account has been deducted by 2
+627%At time 627 Ngo Tuan Vu mobile account has been deducted by 2
+627%At time 627 Paul Averilla mobile account has been deducted by 2
+628%At time 628 Nguyen Hoang Duy mobile account has been deducted by 2
+630%At time 630 Teo Kai Ren mobile account has been deducted by 2
+633%At time 633 Ngo Tuan Vu mobile account has been deducted by 2
+633%At time 633 Paul Averilla mobile account has been deducted by 2
+634%At time 634 Nguyen Hoang Duy mobile account has been deducted by 2
+636%At time 636 Teo Kai Ren mobile account has been deducted by 2
+639%At time 639 Ngo Tuan Vu mobile account has been deducted by 2
+639%At time 639 Paul Averilla mobile account has been deducted by 2
+640%At time 640 Nguyen Hoang Duy mobile account has been deducted by 2
+642%At time 642 Teo Kai Ren mobile account has been deducted by 2
+645%At time 645 Ngo Tuan Vu mobile account has been deducted by 2
+645%At time 645 Paul Averilla mobile account has been deducted by 2
+646%At time 646 Nguyen Hoang Duy mobile account has been deducted by 2
+648%At time 648 Teo Kai Ren mobile account has been deducted by 2
+651%At time 651 Ngo Tuan Vu mobile account has been deducted by 2
+651%At time 651 Paul Averilla mobile account has been deducted by 2
+652%At time 652 Nguyen Hoang Duy mobile account has been deducted by 2
+654%At time 654 Teo Kai Ren mobile account has been deducted by 2
+657%At time 657 Ngo Tuan Vu mobile account has been deducted by 2
+657%At time 657 Paul Averilla mobile account has been deducted by 2
+658%At time 658 Nguyen Hoang Duy mobile account has been deducted by 2
+660%At time 660 Teo Kai Ren mobile account has been deducted by 2
+663%At time 663 Ngo Tuan Vu mobile account has been deducted by 2
+663%At time 663 Paul Averilla mobile account has been deducted by 2
+664%At time 664 Nguyen Hoang Duy mobile account has been deducted by 2
+666%At time 666 Teo Kai Ren mobile account has been deducted by 2
+669%At time 669 Ngo Tuan Vu mobile account has been deducted by 2
+669%At time 669 Paul Averilla mobile account has been deducted by 2
+670%At time 670 Nguyen Hoang Duy mobile account has been deducted by 2
+672%At time 672 Teo Kai Ren mobile account has been deducted by 2
+675%At time 675 Ngo Tuan Vu mobile account has been deducted by 2
+675%At time 675 Paul Averilla mobile account has been deducted by 2
+676%At time 676 Nguyen Hoang Duy mobile account has been deducted by 2
+678%At time 678 Teo Kai Ren mobile account has been deducted by 2
+681%At time 681 Ngo Tuan Vu mobile account has been deducted by 2
+681%At time 681 Paul Averilla mobile account has been deducted by 2
+682%At time 682 Nguyen Hoang Duy mobile account has been deducted by 2
+684%At time 684 Teo Kai Ren mobile account has been deducted by 2
+687%At time 687 Ngo Tuan Vu mobile account has been deducted by 2
+687%At time 687 Paul Averilla mobile account has been deducted by 2
+688%At time 688 Nguyen Hoang Duy mobile account has been deducted by 2
+690%At time 690 Teo Kai Ren mobile account has been deducted by 2
+693%At time 693 Ngo Tuan Vu mobile account has been deducted by 2
+693%At time 693 Paul Averilla mobile account has been deducted by 2
+694%At time 694 Nguyen Hoang Duy mobile account has been deducted by 2
+696%At time 696 Teo Kai Ren mobile account has been deducted by 2
+699%At time 699 Ngo Tuan Vu mobile account has been deducted by 2
+699%At time 699 Paul Averilla mobile account has been deducted by 2
+700%At time 700 Nguyen Hoang Duy mobile account has been deducted by 2
+702%At time 702 Teo Kai Ren mobile account has been deducted by 2
+705%At time 705 Ngo Tuan Vu mobile account has been deducted by 2
+705%At time 705 Paul Averilla mobile account has been deducted by 2
+706%At time 706 Nguyen Hoang Duy mobile account has been deducted by 2
+708%At time 708 Teo Kai Ren mobile account has been deducted by 2
+711%At time 711 Ngo Tuan Vu mobile account has been deducted by 2
+711%At time 711 Paul Averilla mobile account has been deducted by 2
+712%At time 712 Nguyen Hoang Duy mobile account has been deducted by 2
+714%At time 714 Teo Kai Ren mobile account has been deducted by 2
+717%At time 717 Ngo Tuan Vu mobile account has been deducted by 2
+717%At time 717 Paul Averilla mobile account has been deducted by 2
+718%At time 718 Nguyen Hoang Duy mobile account has been deducted by 2
+720%At time 720 Teo Kai Ren mobile account has been deducted by 2
+723%At time 723 Ngo Tuan Vu mobile account has been deducted by 2
+723%At time 723 Paul Averilla mobile account has been deducted by 2
+724%At time 724 Nguyen Hoang Duy mobile account has been deducted by 2
+726%At time 726 Teo Kai Ren mobile account has been deducted by 2
+729%At time 729 Ngo Tuan Vu mobile account has been deducted by 2
+729%At time 729 Paul Averilla mobile account has been deducted by 2
+730%At time 730 Nguyen Hoang Duy mobile account has been deducted by 2
+732%At time 732 Teo Kai Ren mobile account has been deducted by 2
+735%At time 735 Ngo Tuan Vu mobile account has been deducted by 2
+735%At time 735 Paul Averilla mobile account has been deducted by 2
+736%At time 736 Nguyen Hoang Duy mobile account has been deducted by 2
+738%At time 738 Teo Kai Ren mobile account has been deducted by 2
+741%At time 741 Ngo Tuan Vu mobile account has been deducted by 2
+741%At time 741 Paul Averilla mobile account has been deducted by 2
+742%At time 742 Nguyen Hoang Duy mobile account has been deducted by 2
+744%At time 744 Teo Kai Ren mobile account has been deducted by 2
+747%At time 747 Ngo Tuan Vu mobile account has been deducted by 2
+747%At time 747 Paul Averilla mobile account has been deducted by 2
+748%At time 748 Nguyen Hoang Duy mobile account has been deducted by 2
+750%At time 750 Teo Kai Ren mobile account has been deducted by 2
+753%At time 753 Ngo Tuan Vu mobile account has been deducted by 2
+753%At time 753 Paul Averilla mobile account has been deducted by 2
+754%At time 754 Nguyen Hoang Duy mobile account has been deducted by 2
+756%At time 756 Teo Kai Ren mobile account has been deducted by 2
+759%At time 759 Ngo Tuan Vu mobile account has been deducted by 2
+759%At time 759 Paul Averilla mobile account has been deducted by 2
+760%At time 760 Nguyen Hoang Duy mobile account has been deducted by 2
+762%At time 762 Teo Kai Ren mobile account has been deducted by 2
+765%At time 765 Ngo Tuan Vu mobile account has been deducted by 2
+765%At time 765 Paul Averilla mobile account has been deducted by 2
+766%At time 766 Nguyen Hoang Duy mobile account has been deducted by 2
+768%At time 768 Teo Kai Ren mobile account has been deducted by 2
+771%At time 771 Ngo Tuan Vu mobile account has been deducted by 2
+771%At time 771 Paul Averilla mobile account has been deducted by 2
+772%At time 772 Nguyen Hoang Duy mobile account has been deducted by 2
+774%At time 774 Teo Kai Ren mobile account has been deducted by 2
+777%At time 777 Ngo Tuan Vu mobile account has been deducted by 2
+777%At time 777 Paul Averilla mobile account has been deducted by 2
+778%At time 778 Nguyen Hoang Duy mobile account has been deducted by 2
+780%At time 780 Teo Kai Ren mobile account has been deducted by 2
+783%At time 783 Ngo Tuan Vu mobile account has been deducted by 2
+783%At time 783 Paul Averilla mobile account has been deducted by 2
+784%At time 784 Nguyen Hoang Duy mobile account has been deducted by 2
+786%At time 786 Teo Kai Ren mobile account has been deducted by 2
+789%At time 789 Ngo Tuan Vu mobile account has been deducted by 2
+789%At time 789 Paul Averilla mobile account has been deducted by 2
+790%At time 790 Nguyen Hoang Duy mobile account has been deducted by 2
+792%At time 792 Teo Kai Ren mobile account has been deducted by 2
+795%At time 795 Ngo Tuan Vu mobile account has been deducted by 2
+795%At time 795 Paul Averilla mobile account has been deducted by 2
+796%At time 796 Nguyen Hoang Duy mobile account has been deducted by 2
+798%At time 798 Teo Kai Ren mobile account has been deducted by 2
+801%At time 801 Ngo Tuan Vu mobile account has been deducted by 2
+801%At time 801 Paul Averilla mobile account has been deducted by 2
+802%At time 802 Nguyen Hoang Duy mobile account has been deducted by 2
+804%At time 804 Teo Kai Ren mobile account has been deducted by 2
+807%At time 807 Ngo Tuan Vu mobile account has been deducted by 2
+807%At time 807 Paul Averilla mobile account has been deducted by 2
+808%At time 808 Nguyen Hoang Duy mobile account has been deducted by 2
+810%At time 810 Teo Kai Ren mobile account has been deducted by 2
+813%At time 813 Ngo Tuan Vu mobile account has been deducted by 2
+813%At time 813 Paul Averilla mobile account has been deducted by 2
+814%At time 814 Nguyen Hoang Duy mobile account has been deducted by 2
+816%At time 816 Teo Kai Ren mobile account has been deducted by 2
+819%At time 819 Ngo Tuan Vu mobile account has been deducted by 2
+819%At time 819 Paul Averilla mobile account has been deducted by 2
+820%At time 820 Nguyen Hoang Duy mobile account has been deducted by 2
+822%At time 822 Teo Kai Ren mobile account has been deducted by 2
+825%At time 825 Ngo Tuan Vu mobile account has been deducted by 2
+825%At time 825 Paul Averilla mobile account has been deducted by 2
+826%At time 826 Nguyen Hoang Duy mobile account has been deducted by 2
+828%At time 828 Teo Kai Ren mobile account has been deducted by 2
+831%At time 831 Ngo Tuan Vu mobile account has been deducted by 2
+831%At time 831 Paul Averilla mobile account has been deducted by 2
+832%At time 832 Nguyen Hoang Duy mobile account has been deducted by 2
+834%At time 834 Teo Kai Ren mobile account has been deducted by 2
+837%At time 837 Ngo Tuan Vu mobile account has been deducted by 2
+837%At time 837 Paul Averilla mobile account has been deducted by 2
+838%At time 838 Nguyen Hoang Duy mobile account has been deducted by 2
+840%At time 840 Teo Kai Ren mobile account has been deducted by 2
+843%At time 843 Ngo Tuan Vu mobile account has been deducted by 2
+843%At time 843 Paul Averilla mobile account has been deducted by 2
+844%At time 844 Nguyen Hoang Duy mobile account has been deducted by 2
+846%At time 846 Teo Kai Ren mobile account has been deducted by 2
+849%At time 849 Ngo Tuan Vu mobile account has been deducted by 2
+849%At time 849 Paul Averilla mobile account has been deducted by 2
+850%At time 850 Nguyen Hoang Duy mobile account has been deducted by 2
+852%At time 852 Teo Kai Ren mobile account has been deducted by 2
+855%At time 855 Ngo Tuan Vu mobile account has been deducted by 2
+855%At time 855 Paul Averilla mobile account has been deducted by 2
+856%At time 856 Nguyen Hoang Duy mobile account has been deducted by 2
+858%At time 858 Teo Kai Ren mobile account has been deducted by 2
+861%At time 861 Ngo Tuan Vu mobile account has been deducted by 2
+861%At time 861 Paul Averilla mobile account has been deducted by 2
+862%At time 862 Nguyen Hoang Duy mobile account has been deducted by 2
+864%At time 864 Teo Kai Ren mobile account has been deducted by 2
+867%At time 867 Ngo Tuan Vu mobile account has been deducted by 2
+867%At time 867 Paul Averilla mobile account has been deducted by 2
+868%At time 868 Nguyen Hoang Duy mobile account has been deducted by 2
+870%At time 870 Teo Kai Ren mobile account has been deducted by 2
+873%At time 873 Ngo Tuan Vu mobile account has been deducted by 2
+873%At time 873 Paul Averilla mobile account has been deducted by 2
+874%At time 874 Nguyen Hoang Duy mobile account has been deducted by 2
+876%At time 876 Teo Kai Ren mobile account has been deducted by 2
+879%At time 879 Ngo Tuan Vu mobile account has been deducted by 2
+879%At time 879 Paul Averilla mobile account has been deducted by 2
+880%At time 880 Nguyen Hoang Duy mobile account has been deducted by 2
+882%At time 882 Teo Kai Ren mobile account has been deducted by 2
+885%At time 885 Ngo Tuan Vu mobile account has been deducted by 2
+885%At time 885 Paul Averilla mobile account has been deducted by 2
+886%At time 886 Nguyen Hoang Duy mobile account has been deducted by 2
+888%At time 888 Teo Kai Ren mobile account has been deducted by 2
+891%At time 891 Ngo Tuan Vu mobile account has been deducted by 2
+891%At time 891 Paul Averilla mobile account has been deducted by 2
+892%At time 892 Nguyen Hoang Duy mobile account has been deducted by 2
+894%At time 894 Teo Kai Ren mobile account has been deducted by 2
+897%At time 897 Ngo Tuan Vu mobile account has been deducted by 2
+897%At time 897 Paul Averilla mobile account has been deducted by 2
+898%At time 898 Nguyen Hoang Duy mobile account has been deducted by 2
+900%At time 900 Teo Kai Ren mobile account has been deducted by 2
+903%At time 903 Ngo Tuan Vu mobile account has been deducted by 2
+903%At time 903 Paul Averilla mobile account has been deducted by 2
+904%At time 904 Nguyen Hoang Duy mobile account has been deducted by 2
+906%At time 906 Teo Kai Ren mobile account has been deducted by 2
+909%At time 909 Ngo Tuan Vu mobile account has been deducted by 2
+909%At time 909 Paul Averilla mobile account has been deducted by 2
+910%At time 910 Nguyen Hoang Duy mobile account has been deducted by 2
+912%At time 912 Teo Kai Ren mobile account has been deducted by 2
+915%At time 915 Ngo Tuan Vu mobile account has been deducted by 2
+915%At time 915 Paul Averilla mobile account has been deducted by 2
+916%At time 916 Nguyen Hoang Duy mobile account has been deducted by 2
+918%At time 918 Teo Kai Ren mobile account has been deducted by 2
+921%At time 921 Ngo Tuan Vu mobile account has been deducted by 2
+921%At time 921 Paul Averilla mobile account has been deducted by 2
+922%At time 922 Nguyen Hoang Duy mobile account has been deducted by 2
+924%At time 924 Teo Kai Ren mobile account has been deducted by 2
+927%At time 927 Ngo Tuan Vu mobile account has been deducted by 2
+927%At time 927 Paul Averilla mobile account has been deducted by 2
+928%At time 928 Nguyen Hoang Duy mobile account has been deducted by 2
+930%At time 930 Teo Kai Ren mobile account has been deducted by 2
+933%At time 933 Ngo Tuan Vu mobile account has been deducted by 2
+933%At time 933 Paul Averilla mobile account has been deducted by 2
+934%At time 934 Nguyen Hoang Duy mobile account has been deducted by 2
+936%At time 936 Teo Kai Ren mobile account has been deducted by 2
+939%At time 939 Ngo Tuan Vu mobile account has been deducted by 2
+939%At time 939 Paul Averilla mobile account has been deducted by 2
+940%At time 940 Nguyen Hoang Duy mobile account has been deducted by 2
+942%At time 942 Teo Kai Ren mobile account has been deducted by 2
+945%At time 945 Ngo Tuan Vu mobile account has been deducted by 2
+945%At time 945 Paul Averilla mobile account has been deducted by 2
+946%At time 946 Nguyen Hoang Duy mobile account has been deducted by 2
+948%At time 948 Teo Kai Ren mobile account has been deducted by 2
+951%At time 951 Ngo Tuan Vu mobile account has been deducted by 2
+951%At time 951 Paul Averilla mobile account has been deducted by 2
+952%At time 952 Nguyen Hoang Duy mobile account has been deducted by 2
+954%At time 954 Teo Kai Ren mobile account has been deducted by 2
+957%At time 957 Ngo Tuan Vu mobile account has been deducted by 2
+957%At time 957 Paul Averilla mobile account has been deducted by 2
+958%At time 958 Nguyen Hoang Duy mobile account has been deducted by 2
+960%At time 960 Teo Kai Ren mobile account has been deducted by 2
+963%At time 963 Ngo Tuan Vu mobile account has been deducted by 2
+963%At time 963 Paul Averilla mobile account has been deducted by 2
+964%At time 964 Nguyen Hoang Duy mobile account has been deducted by 2
+966%At time 966 Teo Kai Ren mobile account has been deducted by 2
+969%At time 969 Ngo Tuan Vu mobile account has been deducted by 2
+969%At time 969 Paul Averilla mobile account has been deducted by 2
+970%At time 970 Nguyen Hoang Duy mobile account has been deducted by 2
+972%At time 972 Teo Kai Ren mobile account has been deducted by 2
+975%At time 975 Ngo Tuan Vu mobile account has been deducted by 2
+975%At time 975 Paul Averilla mobile account has been deducted by 2
+976%At time 976 Nguyen Hoang Duy mobile account has been deducted by 2
+978%At time 978 Teo Kai Ren mobile account has been deducted by 2
+981%At time 981 Ngo Tuan Vu mobile account has been deducted by 2
+981%At time 981 Paul Averilla mobile account has been deducted by 2
+982%At time 982 Nguyen Hoang Duy mobile account has been deducted by 2
+984%At time 984 Teo Kai Ren mobile account has been deducted by 2
+987%At time 987 Ngo Tuan Vu mobile account has been deducted by 2
+987%At time 987 Paul Averilla mobile account has been deducted by 2
+988%At time 988 Nguyen Hoang Duy mobile account has been deducted by 2
+990%At time 990 Teo Kai Ren mobile account has been deducted by 2
+993%At time 993 Ngo Tuan Vu mobile account has been deducted by 2
+993%At time 993 Paul Averilla mobile account has been deducted by 2
+994%At time 994 Nguyen Hoang Duy mobile account has been deducted by 2
+996%At time 996 Teo Kai Ren mobile account has been deducted by 2
+999%At time 999 Ngo Tuan Vu mobile account has been deducted by 2
+999%At time 999 Paul Averilla mobile account has been deducted by 2
+1000%At time 1000 Nguyen Hoang Duy mobile account has been deducted by 2
+1002%At time 1002 Teo Kai Ren mobile account has been deducted by 2
+1005%At time 1005 Ngo Tuan Vu mobile account has been deducted by 2
+1005%At time 1005 Paul Averilla mobile account has been deducted by 2
+1006%At time 1006 Nguyen Hoang Duy mobile account has been deducted by 2
+1008%At time 1008 Teo Kai Ren mobile account has been deducted by 2
+1011%At time 1011 Ngo Tuan Vu mobile account has been deducted by 2
+1011%At time 1011 Paul Averilla mobile account has been deducted by 2
+1012%At time 1012 Nguyen Hoang Duy mobile account has been deducted by 2
+1014%At time 1014 Teo Kai Ren mobile account has been deducted by 2
+1017%At time 1017 Ngo Tuan Vu mobile account has been deducted by 2
+1017%At time 1017 Paul Averilla mobile account has been deducted by 2
+1018%At time 1018 Nguyen Hoang Duy mobile account has been deducted by 2
+1020%At time 1020 Teo Kai Ren mobile account has been deducted by 2
+1023%At time 1023 Ngo Tuan Vu mobile account has been deducted by 2
+1023%At time 1023 Paul Averilla mobile account has been deducted by 2
+1024%At time 1024 Nguyen Hoang Duy mobile account has been deducted by 2
+1026%At time 1026 Teo Kai Ren mobile account has been deducted by 2
+1029%At time 1029 Ngo Tuan Vu mobile account has been deducted by 2
+1029%At time 1029 Paul Averilla mobile account has been deducted by 2
+1030%At time 1030 Nguyen Hoang Duy mobile account has been deducted by 2
+1032%At time 1032 Teo Kai Ren mobile account has been deducted by 2
+1035%At time 1035 Ngo Tuan Vu mobile account has been deducted by 2
+1035%At time 1035 Paul Averilla mobile account has been deducted by 2
+1036%At time 1036 Nguyen Hoang Duy mobile account has been deducted by 2
+1038%At time 1038 Teo Kai Ren mobile account has been deducted by 2
+1041%At time 1041 Ngo Tuan Vu mobile account has been deducted by 2
+1041%At time 1041 Paul Averilla mobile account has been deducted by 2
+1042%At time 1042 Nguyen Hoang Duy mobile account has been deducted by 2
+1044%At time 1044 Teo Kai Ren mobile account has been deducted by 2
+1047%At time 1047 Ngo Tuan Vu mobile account has been deducted by 2
+1047%At time 1047 Paul Averilla mobile account has been deducted by 2
+1048%At time 1048 Nguyen Hoang Duy mobile account has been deducted by 2
+1050%At time 1050 Teo Kai Ren mobile account has been deducted by 2
+1053%At time 1053 Ngo Tuan Vu mobile account has been deducted by 2
+1053%At time 1053 Paul Averilla mobile account has been deducted by 2
+1054%At time 1054 Nguyen Hoang Duy mobile account has been deducted by 2
+1056%At time 1056 Teo Kai Ren mobile account has been deducted by 2
+1059%At time 1059 Ngo Tuan Vu mobile account has been deducted by 2
+1059%At time 1059 Paul Averilla mobile account has been deducted by 2
+1060%At time 1060 Nguyen Hoang Duy mobile account has been deducted by 2
+1062%At time 1062 Teo Kai Ren mobile account has been deducted by 2
+1065%At time 1065 Ngo Tuan Vu mobile account has been deducted by 2
+1065%At time 1065 Paul Averilla mobile account has been deducted by 2
+1066%At time 1066 Nguyen Hoang Duy mobile account has been deducted by 2
+1068%At time 1068 Teo Kai Ren mobile account has been deducted by 2
+1071%At time 1071 Ngo Tuan Vu mobile account has been deducted by 2
+1071%At time 1071 Paul Averilla mobile account has been deducted by 2
+1072%At time 1072 Nguyen Hoang Duy mobile account has been deducted by 2
+1074%At time 1074 Teo Kai Ren mobile account has been deducted by 2
+1077%At time 1077 Ngo Tuan Vu mobile account has been deducted by 2
+1077%At time 1077 Paul Averilla mobile account has been deducted by 2
+1078%At time 1078 Nguyen Hoang Duy mobile account has been deducted by 2
+1080%At time 1080 Teo Kai Ren mobile account has been deducted by 2
+1083%At time 1083 Ngo Tuan Vu mobile account has been deducted by 2
+1083%At time 1083 Paul Averilla mobile account has been deducted by 2
+1084%At time 1084 Nguyen Hoang Duy mobile account has been deducted by 2
+1086%At time 1086 Teo Kai Ren mobile account has been deducted by 2
+1089%At time 1089 Ngo Tuan Vu mobile account has been deducted by 2
+1089%At time 1089 Paul Averilla mobile account has been deducted by 2
+1090%At time 1090 Nguyen Hoang Duy mobile account has been deducted by 2
+1092%At time 1092 Teo Kai Ren mobile account has been deducted by 2
+1095%At time 1095 Ngo Tuan Vu mobile account has been deducted by 2
+1095%At time 1095 Paul Averilla mobile account has been deducted by 2
+1096%At time 1096 Nguyen Hoang Duy mobile account has been deducted by 2
+1098%At time 1098 Teo Kai Ren mobile account has been deducted by 2
+1101%At time 1101 Ngo Tuan Vu mobile account has been deducted by 2
+1101%At time 1101 Paul Averilla mobile account has been deducted by 2
+1102%At time 1102 Nguyen Hoang Duy mobile account has been deducted by 2
+1104%At time 1104 Teo Kai Ren mobile account has been deducted by 2
+1107%At time 1107 Ngo Tuan Vu mobile account has been deducted by 2
+1107%At time 1107 Paul Averilla mobile account has been deducted by 2
+1108%At time 1108 Nguyen Hoang Duy mobile account has been deducted by 2
+1110%At time 1110 Teo Kai Ren mobile account has been deducted by 2
+1113%At time 1113 Ngo Tuan Vu mobile account has been deducted by 2
+1113%At time 1113 Paul Averilla mobile account has been deducted by 2
+1114%At time 1114 Nguyen Hoang Duy mobile account has been deducted by 2
+1116%At time 1116 Teo Kai Ren mobile account has been deducted by 2
+1119%At time 1119 Ngo Tuan Vu mobile account has been deducted by 2
+1119%At time 1119 Paul Averilla mobile account has been deducted by 2
+1120%At time 1120 Nguyen Hoang Duy mobile account has been deducted by 2
+1122%At time 1122 Teo Kai Ren mobile account has been deducted by 2
+1125%At time 1125 Ngo Tuan Vu mobile account has been deducted by 2
+1125%At time 1125 Paul Averilla mobile account has been deducted by 2
+1126%At time 1126 Nguyen Hoang Duy mobile account has been deducted by 2
+1128%At time 1128 Teo Kai Ren mobile account has been deducted by 2
+1131%At time 1131 Ngo Tuan Vu mobile account has been deducted by 2
+1131%At time 1131 Paul Averilla mobile account has been deducted by 2
+1132%At time 1132 Nguyen Hoang Duy mobile account has been deducted by 2
+1134%At time 1134 Teo Kai Ren mobile account has been deducted by 2
+1137%At time 1137 Ngo Tuan Vu mobile account has been deducted by 2
+1137%At time 1137 Paul Averilla mobile account has been deducted by 2
+1138%At time 1138 Nguyen Hoang Duy mobile account has been deducted by 2
+1140%At time 1140 Teo Kai Ren mobile account has been deducted by 2
+1143%At time 1143 Ngo Tuan Vu mobile account has been deducted by 2
+1143%At time 1143 Paul Averilla mobile account has been deducted by 2
+1144%At time 1144 Nguyen Hoang Duy mobile account has been deducted by 2
+1146%At time 1146 Teo Kai Ren mobile account has been deducted by 2
+1149%At time 1149 Ngo Tuan Vu mobile account has been deducted by 2
+1149%At time 1149 Paul Averilla mobile account has been deducted by 2
+1150%At time 1150 Nguyen Hoang Duy mobile account has been deducted by 2
+1152%At time 1152 Teo Kai Ren mobile account has been deducted by 2
+1155%At time 1155 Ngo Tuan Vu mobile account has been deducted by 2
+1155%At time 1155 Paul Averilla mobile account has been deducted by 2
+1156%At time 1156 Nguyen Hoang Duy mobile account has been deducted by 2
+1158%At time 1158 Teo Kai Ren mobile account has been deducted by 2
+1161%At time 1161 Ngo Tuan Vu mobile account has been deducted by 2
+1161%At time 1161 Paul Averilla mobile account has been deducted by 2
+1162%At time 1162 Nguyen Hoang Duy mobile account has been deducted by 2
+1164%At time 1164 Teo Kai Ren mobile account has been deducted by 2
+1167%At time 1167 Ngo Tuan Vu mobile account has been deducted by 2
+1167%At time 1167 Paul Averilla mobile account has been deducted by 2
+1168%At time 1168 Nguyen Hoang Duy mobile account has been deducted by 2
+1170%At time 1170 Teo Kai Ren mobile account has been deducted by 2
+1173%At time 1173 Ngo Tuan Vu mobile account has been deducted by 2
+1173%At time 1173 Paul Averilla mobile account has been deducted by 2
+1174%At time 1174 Nguyen Hoang Duy mobile account has been deducted by 2
+1176%At time 1176 Teo Kai Ren mobile account has been deducted by 2
+1179%At time 1179 Ngo Tuan Vu mobile account has been deducted by 2
+1179%At time 1179 Paul Averilla mobile account has been deducted by 2
+1180%At time 1180 Nguyen Hoang Duy mobile account has been deducted by 2
+1182%At time 1182 Teo Kai Ren mobile account has been deducted by 2
+1185%At time 1185 Ngo Tuan Vu mobile account has been deducted by 2
+1185%At time 1185 Paul Averilla mobile account has been deducted by 2
+1186%At time 1186 Nguyen Hoang Duy mobile account has been deducted by 2
+1188%At time 1188 Teo Kai Ren mobile account has been deducted by 2
+1191%At time 1191 Ngo Tuan Vu mobile account has been deducted by 2
+1191%At time 1191 Paul Averilla mobile account has been deducted by 2
+1192%At time 1192 Nguyen Hoang Duy mobile account has been deducted by 2
+1194%At time 1194 Teo Kai Ren mobile account has been deducted by 2
+1197%At time 1197 Ngo Tuan Vu mobile account has been deducted by 2
+1197%At time 1197 Paul Averilla mobile account has been deducted by 2
+1198%At time 1198 Nguyen Hoang Duy mobile account has been deducted by 2
+1200%At time 1200 Teo Kai Ren mobile account has been deducted by 2
+1203%At time 1203 Ngo Tuan Vu mobile account has been deducted by 2
+1203%At time 1203 Paul Averilla mobile account has been deducted by 2
+1204%At time 1204 Nguyen Hoang Duy mobile account has been deducted by 2
+1206%At time 1206 Teo Kai Ren mobile account has been deducted by 2
+1209%At time 1209 Ngo Tuan Vu mobile account has been deducted by 2
+1209%At time 1209 Paul Averilla mobile account has been deducted by 2
+1210%At time 1210 Nguyen Hoang Duy mobile account has been deducted by 2
+1212%At time 1212 Teo Kai Ren mobile account has been deducted by 2
+1215%At time 1215 Ngo Tuan Vu mobile account has been deducted by 2
+1215%At time 1215 Paul Averilla mobile account has been deducted by 2
+1216%At time 1216 Nguyen Hoang Duy mobile account has been deducted by 2
+1218%At time 1218 Teo Kai Ren mobile account has been deducted by 2
+1221%At time 1221 Ngo Tuan Vu mobile account has been deducted by 2
+1221%At time 1221 Paul Averilla mobile account has been deducted by 2
+1222%At time 1222 Nguyen Hoang Duy mobile account has been deducted by 2
+1224%At time 1224 Teo Kai Ren mobile account has been deducted by 2
+1227%At time 1227 Ngo Tuan Vu mobile account has been deducted by 2
+1227%At time 1227 Paul Averilla mobile account has been deducted by 2
+1228%At time 1228 Nguyen Hoang Duy mobile account has been deducted by 2
+1230%At time 1230 Teo Kai Ren mobile account has been deducted by 2
+1233%At time 1233 Ngo Tuan Vu mobile account has been deducted by 2
+1233%At time 1233 Paul Averilla mobile account has been deducted by 2
+1234%At time 1234 Nguyen Hoang Duy mobile account has been deducted by 2
+1236%At time 1236 Teo Kai Ren mobile account has been deducted by 2
+1239%At time 1239 Ngo Tuan Vu mobile account has been deducted by 2
+1239%At time 1239 Paul Averilla mobile account has been deducted by 2
+1240%At time 1240 Nguyen Hoang Duy mobile account has been deducted by 2
+1242%At time 1242 Teo Kai Ren mobile account has been deducted by 2
+1245%At time 1245 Ngo Tuan Vu mobile account has been deducted by 2
+1245%At time 1245 Paul Averilla mobile account has been deducted by 2
+1246%At time 1246 Nguyen Hoang Duy mobile account has been deducted by 2
+1248%At time 1248 Teo Kai Ren mobile account has been deducted by 2
+1251%At time 1251 Ngo Tuan Vu mobile account has been deducted by 2
+1251%At time 1251 Paul Averilla mobile account has been deducted by 2
+1252%At time 1252 Nguyen Hoang Duy mobile account has been deducted by 2
+1254%At time 1254 Teo Kai Ren mobile account has been deducted by 2
+1257%At time 1257 Ngo Tuan Vu mobile account has been deducted by 2
+1257%At time 1257 Paul Averilla mobile account has been deducted by 2
+1258%At time 1258 Nguyen Hoang Duy mobile account has been deducted by 2
+1260%At time 1260 Teo Kai Ren mobile account has been deducted by 2
+1263%At time 1263 Ngo Tuan Vu mobile account has been deducted by 2
+1263%At time 1263 Paul Averilla mobile account has been deducted by 2
+1264%At time 1264 Nguyen Hoang Duy mobile account has been deducted by 2
+1266%At time 1266 Teo Kai Ren mobile account has been deducted by 2
+1269%At time 1269 Ngo Tuan Vu mobile account has been deducted by 2
+1269%At time 1269 Paul Averilla mobile account has been deducted by 2
+1270%At time 1270 Nguyen Hoang Duy mobile account has been deducted by 2
+1272%At time 1272 Teo Kai Ren mobile account has been deducted by 2
+1275%At time 1275 Ngo Tuan Vu mobile account has been deducted by 2
+1275%At time 1275 Paul Averilla mobile account has been deducted by 2
+1276%At time 1276 Nguyen Hoang Duy mobile account has been deducted by 2
+1278%At time 1278 Teo Kai Ren mobile account has been deducted by 2
+1281%At time 1281 Ngo Tuan Vu mobile account has been deducted by 2
+1281%At time 1281 Paul Averilla mobile account has been deducted by 2
+1282%At time 1282 Nguyen Hoang Duy mobile account has been deducted by 2
+1284%At time 1284 Teo Kai Ren mobile account has been deducted by 2
+1287%At time 1287 Ngo Tuan Vu mobile account has been deducted by 2
+1287%At time 1287 Paul Averilla mobile account has been deducted by 2
+1288%At time 1288 Nguyen Hoang Duy mobile account has been deducted by 2
+1290%At time 1290 Teo Kai Ren mobile account has been deducted by 2
+1293%At time 1293 Ngo Tuan Vu mobile account has been deducted by 2
+1293%At time 1293 Paul Averilla mobile account has been deducted by 2
+1294%At time 1294 Nguyen Hoang Duy mobile account has been deducted by 2
+1296%At time 1296 Teo Kai Ren mobile account has been deducted by 2
+1299%At time 1299 Ngo Tuan Vu mobile account has been deducted by 2
+1299%At time 1299 Paul Averilla mobile account has been deducted by 2
+1300%At time 1300 Nguyen Hoang Duy mobile account has been deducted by 2
+1302%At time 1302 Teo Kai Ren mobile account has been deducted by 2
+1305%At time 1305 Ngo Tuan Vu mobile account has been deducted by 2
+1305%At time 1305 Paul Averilla mobile account has been deducted by 2
+1306%At time 1306 Nguyen Hoang Duy mobile account has been deducted by 2
+1308%At time 1308 Teo Kai Ren mobile account has been deducted by 2
+1311%At time 1311 Ngo Tuan Vu mobile account has been deducted by 2
+1311%At time 1311 Paul Averilla mobile account has been deducted by 2
+1312%At time 1312 Nguyen Hoang Duy mobile account has been deducted by 2
+1314%At time 1314 Teo Kai Ren mobile account has been deducted by 2
+1317%At time 1317 Ngo Tuan Vu mobile account has been deducted by 2
+1317%At time 1317 Paul Averilla mobile account has been deducted by 2
+1318%At time 1318 Nguyen Hoang Duy mobile account has been deducted by 2
+1320%At time 1320 Teo Kai Ren mobile account has been deducted by 2
+1323%At time 1323 Ngo Tuan Vu mobile account has been deducted by 2
+1323%At time 1323 Paul Averilla mobile account has been deducted by 2
+1324%At time 1324 Nguyen Hoang Duy mobile account has been deducted by 2
+1326%At time 1326 Teo Kai Ren mobile account has been deducted by 2
+1329%At time 1329 Ngo Tuan Vu mobile account has been deducted by 2
+1329%At time 1329 Paul Averilla mobile account has been deducted by 2
+1330%At time 1330 Nguyen Hoang Duy mobile account has been deducted by 2
+1332%At time 1332 Teo Kai Ren mobile account has been deducted by 2
+1335%At time 1335 Ngo Tuan Vu mobile account has been deducted by 2
+1335%At time 1335 Paul Averilla mobile account has been deducted by 2
+1336%At time 1336 Nguyen Hoang Duy mobile account has been deducted by 2
+1338%At time 1338 Teo Kai Ren mobile account has been deducted by 2
+1341%At time 1341 Ngo Tuan Vu mobile account has been deducted by 2
+1341%At time 1341 Paul Averilla mobile account has been deducted by 2
+1342%At time 1342 Nguyen Hoang Duy mobile account has been deducted by 2
+1344%At time 1344 Teo Kai Ren mobile account has been deducted by 2
+1347%At time 1347 Ngo Tuan Vu mobile account has been deducted by 2
+1347%At time 1347 Paul Averilla mobile account has been deducted by 2
+1348%At time 1348 Nguyen Hoang Duy mobile account has been deducted by 2
+1350%At time 1350 Teo Kai Ren mobile account has been deducted by 2
+1353%At time 1353 Ngo Tuan Vu mobile account has been deducted by 2
+1353%At time 1353 Paul Averilla mobile account has been deducted by 2
+1354%At time 1354 Nguyen Hoang Duy mobile account has been deducted by 2
+1356%At time 1356 Teo Kai Ren mobile account has been deducted by 2
+1359%At time 1359 Ngo Tuan Vu mobile account has been deducted by 2
+1359%At time 1359 Paul Averilla mobile account has been deducted by 2
+1360%At time 1360 Nguyen Hoang Duy mobile account has been deducted by 2
+1362%At time 1362 Teo Kai Ren mobile account has been deducted by 2
+1365%At time 1365 Ngo Tuan Vu mobile account has been deducted by 2
+1365%At time 1365 Paul Averilla mobile account has been deducted by 2
+1366%At time 1366 Nguyen Hoang Duy mobile account has been deducted by 2
+1368%At time 1368 Teo Kai Ren mobile account has been deducted by 2
+1371%At time 1371 Ngo Tuan Vu mobile account has been deducted by 2
+1371%At time 1371 Paul Averilla mobile account has been deducted by 2
+1372%At time 1372 Nguyen Hoang Duy mobile account has been deducted by 2
+1374%At time 1374 Teo Kai Ren mobile account has been deducted by 2
+1377%At time 1377 Ngo Tuan Vu mobile account has been deducted by 2
+1377%At time 1377 Paul Averilla mobile account has been deducted by 2
+1378%At time 1378 Nguyen Hoang Duy mobile account has been deducted by 2
+1380%At time 1380 Teo Kai Ren mobile account has been deducted by 2
+1383%At time 1383 Ngo Tuan Vu mobile account has been deducted by 2
+1383%At time 1383 Paul Averilla mobile account has been deducted by 2
+1384%At time 1384 Nguyen Hoang Duy mobile account has been deducted by 2
+1386%At time 1386 Teo Kai Ren mobile account has been deducted by 2
+1389%At time 1389 Ngo Tuan Vu mobile account has been deducted by 2
+1389%At time 1389 Paul Averilla mobile account has been deducted by 2
+1390%At time 1390 Nguyen Hoang Duy mobile account has been deducted by 2
+1392%At time 1392 Teo Kai Ren mobile account has been deducted by 2
+1395%At time 1395 Ngo Tuan Vu mobile account has been deducted by 2
+1395%At time 1395 Paul Averilla mobile account has been deducted by 2
+1396%At time 1396 Nguyen Hoang Duy mobile account has been deducted by 2
+1398%At time 1398 Teo Kai Ren mobile account has been deducted by 2
+1401%At time 1401 Ngo Tuan Vu mobile account has been deducted by 2
+1401%At time 1401 Paul Averilla mobile account has been deducted by 2
+1402%At time 1402 Nguyen Hoang Duy mobile account has been deducted by 2
+1404%At time 1404 Teo Kai Ren mobile account has been deducted by 2
+1407%At time 1407 Ngo Tuan Vu mobile account has been deducted by 2
+1407%At time 1407 Paul Averilla mobile account has been deducted by 2
+1408%At time 1408 Nguyen Hoang Duy mobile account has been deducted by 2
+1410%At time 1410 Teo Kai Ren mobile account has been deducted by 2
+1413%At time 1413 Ngo Tuan Vu mobile account has been deducted by 2
+1413%At time 1413 Paul Averilla mobile account has been deducted by 2
+1414%At time 1414 Nguyen Hoang Duy mobile account has been deducted by 2
+1416%At time 1416 Teo Kai Ren mobile account has been deducted by 2
+1419%At time 1419 Ngo Tuan Vu mobile account has been deducted by 2
+1419%At time 1419 Paul Averilla mobile account has been deducted by 2
+1420%At time 1420 Nguyen Hoang Duy mobile account has been deducted by 2
+1422%At time 1422 Teo Kai Ren mobile account has been deducted by 2
+1425%At time 1425 Ngo Tuan Vu mobile account has been deducted by 2
+1425%At time 1425 Paul Averilla mobile account has been deducted by 2
+1426%At time 1426 Nguyen Hoang Duy mobile account has been deducted by 2
+1428%At time 1428 Teo Kai Ren mobile account has been deducted by 2
+1431%At time 1431 Ngo Tuan Vu mobile account has been deducted by 2
+1431%At time 1431 Paul Averilla mobile account has been deducted by 2
+1432%At time 1432 Nguyen Hoang Duy mobile account has been deducted by 2
+1434%At time 1434 Teo Kai Ren mobile account has been deducted by 2
+1437%At time 1437 Ngo Tuan Vu mobile account has been deducted by 2
+1437%At time 1437 Paul Averilla mobile account has been deducted by 2
+1438%At time 1438 Nguyen Hoang Duy mobile account has been deducted by 2
+1440%At time 1440 Teo Kai Ren mobile account has been deducted by 2
+1443%At time 1443 Ngo Tuan Vu mobile account has been deducted by 2
+1443%At time 1443 Paul Averilla mobile account has been deducted by 2
+1444%At time 1444 Nguyen Hoang Duy mobile account has been deducted by 2
+1446%At time 1446 Teo Kai Ren mobile account has been deducted by 2
+1449%At time 1449 Ngo Tuan Vu mobile account has been deducted by 2
+1449%At time 1449 Paul Averilla mobile account has been deducted by 2
+1450%At time 1450 Nguyen Hoang Duy mobile account has been deducted by 2
+1452%At time 1452 Teo Kai Ren mobile account has been deducted by 2
+1455%At time 1455 Ngo Tuan Vu mobile account has been deducted by 2
+1455%At time 1455 Paul Averilla mobile account has been deducted by 2
+1456%At time 1456 Nguyen Hoang Duy mobile account has been deducted by 2
+1458%At time 1458 Teo Kai Ren mobile account has been deducted by 2
+1461%At time 1461 Ngo Tuan Vu mobile account has been deducted by 2
+1461%At time 1461 Paul Averilla mobile account has been deducted by 2
+1462%At time 1462 Nguyen Hoang Duy mobile account has been deducted by 2
+1464%At time 1464 Teo Kai Ren mobile account has been deducted by 2
+1467%At time 1467 Ngo Tuan Vu mobile account has been deducted by 2
+1467%At time 1467 Paul Averilla mobile account has been deducted by 2
+1468%At time 1468 Nguyen Hoang Duy mobile account has been deducted by 2
+1470%At time 1470 Teo Kai Ren mobile account has been deducted by 2
+1473%At time 1473 Ngo Tuan Vu mobile account has been deducted by 2
+1473%At time 1473 Paul Averilla mobile account has been deducted by 2
+1474%At time 1474 Nguyen Hoang Duy mobile account has been deducted by 2
+1476%At time 1476 Teo Kai Ren mobile account has been deducted by 2
+1479%At time 1479 Ngo Tuan Vu mobile account has been deducted by 2
+1479%At time 1479 Paul Averilla mobile account has been deducted by 2
+1480%At time 1480 Nguyen Hoang Duy mobile account has been deducted by 2
+1482%At time 1482 Teo Kai Ren mobile account has been deducted by 2
+1485%At time 1485 Ngo Tuan Vu mobile account has been deducted by 2
+1485%At time 1485 Paul Averilla mobile account has been deducted by 2
+1486%At time 1486 Nguyen Hoang Duy mobile account has been deducted by 2
+$$END SYSTEMSMSLOG$$
+$$START INTERRUPTLOG$$
+988%At 988 bus A2 has been interrupted.
+996%At 996 bus stopAfter Science Park Drive has been under construction
+1045%At 1045 bus A2 has been interrupted.
+1045%At 1045 bus A2 has been interrupted.
+$$END INTERRUPTLOG$$
+$$START AUTOHOPOFFLIST$$
+Paul Averilla
+Ngo Tuan Vu
+Nguyen Hoang Duy
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Paul Averilla
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+Paul Averilla
+Teo Kai Ren
+Teo Kai Ren
+Teo Kai Ren
+$$END AUTOHOPOFFLIST$$
+$$START CANHOPOFFNOWLIST$$
+Paul Averilla
+$$END CANHOPOFFNOWLIST$$
+$END SYSTEMDATA$
+

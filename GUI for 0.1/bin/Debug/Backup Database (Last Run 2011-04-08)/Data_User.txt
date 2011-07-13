@@ -1,0 +1,1028 @@
+$START USERLIST$
+
+$$START USER$$
+Paul Averilla%96104376%10%123456789%mobile%mobile%1490%inactive%%123%
+$$$START SMSLOG$$$
+At time 125 Your mobile account has been deducted by 2
+At time 141 Your mobile account has been deducted by 2
+At time 147 Your mobile account has been deducted by 2
+At time 153 Your mobile account has been deducted by 2
+At time 159 Your mobile account has been deducted by 2
+At time 165 Your mobile account has been deducted by 2
+At time 171 Your mobile account has been deducted by 2
+At time 177 Your mobile account has been deducted by 2
+At time 183 Your mobile account has been deducted by 2
+At time 189 Your mobile account has been deducted by 2
+At time 195 Your mobile account has been deducted by 2
+At time 201 Your mobile account has been deducted by 2
+At time 207 Your mobile account has been deducted by 2
+At time 213 Your mobile account has been deducted by 2
+At time 219 Your mobile account has been deducted by 2
+At time 225 Your mobile account has been deducted by 2
+At time 231 Your mobile account has been deducted by 2
+At time 237 Your mobile account has been deducted by 2
+At time 243 Your mobile account has been deducted by 2
+At time 249 Your mobile account has been deducted by 2
+At time 255 Your mobile account has been deducted by 2
+At time 261 Your mobile account has been deducted by 2
+At time 267 Your mobile account has been deducted by 2
+At time 273 Your mobile account has been deducted by 2
+At time 279 Your mobile account has been deducted by 2
+At time 285 Your mobile account has been deducted by 2
+At time 291 Your mobile account has been deducted by 2
+At time 297 Your mobile account has been deducted by 2
+At time 303 Your mobile account has been deducted by 2
+At time 309 Your mobile account has been deducted by 2
+At time 315 Your mobile account has been deducted by 2
+At time 321 Your mobile account has been deducted by 2
+At time 327 Your mobile account has been deducted by 2
+At time 333 Your mobile account has been deducted by 2
+At time 339 Your mobile account has been deducted by 2
+At time 345 Your mobile account has been deducted by 2
+At time 351 Your mobile account has been deducted by 2
+At time 357 Your mobile account has been deducted by 2
+At time 363 Your mobile account has been deducted by 2
+At time 369 Your mobile account has been deducted by 2
+At time 375 Your mobile account has been deducted by 2
+At time 381 Your mobile account has been deducted by 2
+At time 387 Your mobile account has been deducted by 2
+At time 393 Your mobile account has been deducted by 2
+At time 399 Your mobile account has been deducted by 2
+At time 405 Your mobile account has been deducted by 2
+At time 411 Your mobile account has been deducted by 2
+At time 417 Your mobile account has been deducted by 2
+At time 423 Your mobile account has been deducted by 2
+At time 429 Your mobile account has been deducted by 2
+At time 435 Your mobile account has been deducted by 2
+At time 441 Your mobile account has been deducted by 2
+At time 447 Your mobile account has been deducted by 2
+At time 453 Your mobile account has been deducted by 2
+At time 459 Your mobile account has been deducted by 2
+At time 465 Your mobile account has been deducted by 2
+At time 471 Your mobile account has been deducted by 2
+At time 477 Your mobile account has been deducted by 2
+At time 483 Your mobile account has been deducted by 2
+At time 489 Your mobile account has been deducted by 2
+At time 495 Your mobile account has been deducted by 2
+At time 501 Your mobile account has been deducted by 2
+At time 507 Your mobile account has been deducted by 2
+At time 513 Your mobile account has been deducted by 2
+At time 519 Your mobile account has been deducted by 2
+At time 525 Your mobile account has been deducted by 2
+At time 531 Your mobile account has been deducted by 2
+At time 537 Your mobile account has been deducted by 2
+At time 543 Your mobile account has been deducted by 2
+At time 549 Your mobile account has been deducted by 2
+At time 555 Your mobile account has been deducted by 2
+At time 561 Your mobile account has been deducted by 2
+At time 567 Your mobile account has been deducted by 2
+At time 573 Your mobile account has been deducted by 2
+At time 579 Your mobile account has been deducted by 2
+At time 585 Your mobile account has been deducted by 2
+At time 591 Your mobile account has been deducted by 2
+At time 597 Your mobile account has been deducted by 2
+At time 603 Your mobile account has been deducted by 2
+At time 609 Your mobile account has been deducted by 2
+At time 615 Your mobile account has been deducted by 2
+At time 621 Your mobile account has been deducted by 2
+At time 627 Your mobile account has been deducted by 2
+At time 633 Your mobile account has been deducted by 2
+At time 639 Your mobile account has been deducted by 2
+At time 645 Your mobile account has been deducted by 2
+At time 651 Your mobile account has been deducted by 2
+At time 657 Your mobile account has been deducted by 2
+At time 663 Your mobile account has been deducted by 2
+At time 669 Your mobile account has been deducted by 2
+At time 675 Your mobile account has been deducted by 2
+At time 681 Your mobile account has been deducted by 2
+At time 687 Your mobile account has been deducted by 2
+At time 693 Your mobile account has been deducted by 2
+At time 699 Your mobile account has been deducted by 2
+At time 705 Your mobile account has been deducted by 2
+At time 711 Your mobile account has been deducted by 2
+At time 717 Your mobile account has been deducted by 2
+At time 723 Your mobile account has been deducted by 2
+At time 729 Your mobile account has been deducted by 2
+At time 735 Your mobile account has been deducted by 2
+At time 741 Your mobile account has been deducted by 2
+At time 747 Your mobile account has been deducted by 2
+At time 753 Your mobile account has been deducted by 2
+At time 759 Your mobile account has been deducted by 2
+At time 765 Your mobile account has been deducted by 2
+At time 771 Your mobile account has been deducted by 2
+At time 777 Your mobile account has been deducted by 2
+At time 783 Your mobile account has been deducted by 2
+At time 789 Your mobile account has been deducted by 2
+At time 795 Your mobile account has been deducted by 2
+At time 801 Your mobile account has been deducted by 2
+At time 807 Your mobile account has been deducted by 2
+At time 813 Your mobile account has been deducted by 2
+At time 819 Your mobile account has been deducted by 2
+At time 825 Your mobile account has been deducted by 2
+At time 831 Your mobile account has been deducted by 2
+At time 837 Your mobile account has been deducted by 2
+At time 843 Your mobile account has been deducted by 2
+At time 849 Your mobile account has been deducted by 2
+At time 855 Your mobile account has been deducted by 2
+At time 861 Your mobile account has been deducted by 2
+At time 867 Your mobile account has been deducted by 2
+At time 873 Your mobile account has been deducted by 2
+At time 879 Your mobile account has been deducted by 2
+At time 885 Your mobile account has been deducted by 2
+At time 891 Your mobile account has been deducted by 2
+At time 897 Your mobile account has been deducted by 2
+At time 903 Your mobile account has been deducted by 2
+At time 909 Your mobile account has been deducted by 2
+At time 915 Your mobile account has been deducted by 2
+At time 921 Your mobile account has been deducted by 2
+At time 927 Your mobile account has been deducted by 2
+At time 933 Your mobile account has been deducted by 2
+At time 939 Your mobile account has been deducted by 2
+At time 945 Your mobile account has been deducted by 2
+At time 951 Your mobile account has been deducted by 2
+At time 957 Your mobile account has been deducted by 2
+At time 963 Your mobile account has been deducted by 2
+At time 969 Your mobile account has been deducted by 2
+At time 975 Your mobile account has been deducted by 2
+At time 981 Your mobile account has been deducted by 2
+At time 987 Your mobile account has been deducted by 2
+At time 993 Your mobile account has been deducted by 2
+At time 999 Your mobile account has been deducted by 2
+At time 1005 Your mobile account has been deducted by 2
+At time 1011 Your mobile account has been deducted by 2
+At time 1017 Your mobile account has been deducted by 2
+At time 1023 Your mobile account has been deducted by 2
+At time 1029 Your mobile account has been deducted by 2
+At time 1035 Your mobile account has been deducted by 2
+At time 1041 Your mobile account has been deducted by 2
+At time 1047 Your mobile account has been deducted by 2
+At time 1053 Your mobile account has been deducted by 2
+At time 1059 Your mobile account has been deducted by 2
+At time 1065 Your mobile account has been deducted by 2
+At time 1071 Your mobile account has been deducted by 2
+At time 1077 Your mobile account has been deducted by 2
+At time 1083 Your mobile account has been deducted by 2
+At time 1089 Your mobile account has been deducted by 2
+At time 1095 Your mobile account has been deducted by 2
+At time 1101 Your mobile account has been deducted by 2
+At time 1107 Your mobile account has been deducted by 2
+At time 1113 Your mobile account has been deducted by 2
+At time 1119 Your mobile account has been deducted by 2
+At time 1125 Your mobile account has been deducted by 2
+At time 1131 Your mobile account has been deducted by 2
+At time 1137 Your mobile account has been deducted by 2
+At time 1143 Your mobile account has been deducted by 2
+At time 1149 Your mobile account has been deducted by 2
+At time 1155 Your mobile account has been deducted by 2
+At time 1161 Your mobile account has been deducted by 2
+At time 1167 Your mobile account has been deducted by 2
+At time 1173 Your mobile account has been deducted by 2
+At time 1179 Your mobile account has been deducted by 2
+At time 1185 Your mobile account has been deducted by 2
+At time 1191 Your mobile account has been deducted by 2
+At time 1197 Your mobile account has been deducted by 2
+At time 1203 Your mobile account has been deducted by 2
+At time 1209 Your mobile account has been deducted by 2
+At time 1215 Your mobile account has been deducted by 2
+At time 1221 Your mobile account has been deducted by 2
+At time 1227 Your mobile account has been deducted by 2
+At time 1233 Your mobile account has been deducted by 2
+At time 1239 Your mobile account has been deducted by 2
+At time 1245 Your mobile account has been deducted by 2
+At time 1251 Your mobile account has been deducted by 2
+At time 1257 Your mobile account has been deducted by 2
+At time 1263 Your mobile account has been deducted by 2
+At time 1269 Your mobile account has been deducted by 2
+At time 1275 Your mobile account has been deducted by 2
+At time 1281 Your mobile account has been deducted by 2
+At time 1287 Your mobile account has been deducted by 2
+At time 1293 Your mobile account has been deducted by 2
+At time 1299 Your mobile account has been deducted by 2
+At time 1305 Your mobile account has been deducted by 2
+At time 1311 Your mobile account has been deducted by 2
+At time 1317 Your mobile account has been deducted by 2
+At time 1323 Your mobile account has been deducted by 2
+At time 1329 Your mobile account has been deducted by 2
+At time 1335 Your mobile account has been deducted by 2
+At time 1341 Your mobile account has been deducted by 2
+At time 1347 Your mobile account has been deducted by 2
+At time 1353 Your mobile account has been deducted by 2
+At time 1359 Your mobile account has been deducted by 2
+At time 1365 Your mobile account has been deducted by 2
+At time 1371 Your mobile account has been deducted by 2
+At time 1377 Your mobile account has been deducted by 2
+At time 1383 Your mobile account has been deducted by 2
+At time 1389 Your mobile account has been deducted by 2
+At time 1395 Your mobile account has been deducted by 2
+At time 1401 Your mobile account has been deducted by 2
+At time 1407 Your mobile account has been deducted by 2
+At time 1413 Your mobile account has been deducted by 2
+At time 1419 Your mobile account has been deducted by 2
+At time 1425 Your mobile account has been deducted by 2
+At time 1431 Your mobile account has been deducted by 2
+At time 1437 Your mobile account has been deducted by 2
+At time 1443 Your mobile account has been deducted by 2
+At time 1449 Your mobile account has been deducted by 2
+At time 1455 Your mobile account has been deducted by 2
+At time 1461 Your mobile account has been deducted by 2
+At time 1467 Your mobile account has been deducted by 2
+At time 1473 Your mobile account has been deducted by 2
+At time 1479 Your mobile account has been deducted by 2
+At time 1485 Your mobile account has been deducted by 2
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+NUH%House 7%A1%125%142
+NUH%House 7%A1%125%142
+NUH%House 7%A1%905%922
+NUH%House 7%A1%905%922
+NUH%AS7%A1%1105%1113
+NUH%AS7%A1%1105%1113
+AS7%Opp Blk EA%B%1229%1242
+AS7%Opp Blk EA%B%1229%1242
+NUH%Opp Staff Club%A1%1445%1449
+NUH%Opp Staff Club%A1%1445%1449
+NUH%LT29%A1%1465%1466
+NUH%LT29%A1%1465%1466
+LT29%University Hall%A1%1486%1487
+LT29%University Hall%A1%1486%1487
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+LT29%%A1%1486%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$$START USER$$
+Nguyen Hoang Duy%82693703%0%987654321%mobile%mobile%1491%inactive%%321%
+$$$START SMSLOG$$$
+At time 142 Your mobile account has been deducted by 2
+At time 148 Your mobile account has been deducted by 2
+At time 154 Your mobile account has been deducted by 2
+At time 160 Your mobile account has been deducted by 2
+At time 166 Your mobile account has been deducted by 2
+At time 172 Your mobile account has been deducted by 2
+At time 178 Your mobile account has been deducted by 2
+At time 184 Your mobile account has been deducted by 2
+At time 190 Your mobile account has been deducted by 2
+At time 196 Your mobile account has been deducted by 2
+At time 202 Your mobile account has been deducted by 2
+At time 208 Your mobile account has been deducted by 2
+At time 214 Your mobile account has been deducted by 2
+At time 220 Your mobile account has been deducted by 2
+At time 226 Your mobile account has been deducted by 2
+At time 232 Your mobile account has been deducted by 2
+At time 238 Your mobile account has been deducted by 2
+At time 244 Your mobile account has been deducted by 2
+At time 250 Your mobile account has been deducted by 2
+At time 256 Your mobile account has been deducted by 2
+At time 262 Your mobile account has been deducted by 2
+At time 268 Your mobile account has been deducted by 2
+At time 274 Your mobile account has been deducted by 2
+At time 280 Your mobile account has been deducted by 2
+At time 286 Your mobile account has been deducted by 2
+At time 292 Your mobile account has been deducted by 2
+At time 298 Your mobile account has been deducted by 2
+At time 304 Your mobile account has been deducted by 2
+At time 310 Your mobile account has been deducted by 2
+At time 316 Your mobile account has been deducted by 2
+At time 322 Your mobile account has been deducted by 2
+At time 328 Your mobile account has been deducted by 2
+At time 334 Your mobile account has been deducted by 2
+At time 340 Your mobile account has been deducted by 2
+At time 346 Your mobile account has been deducted by 2
+At time 352 Your mobile account has been deducted by 2
+At time 358 Your mobile account has been deducted by 2
+At time 364 Your mobile account has been deducted by 2
+At time 370 Your mobile account has been deducted by 2
+At time 376 Your mobile account has been deducted by 2
+At time 382 Your mobile account has been deducted by 2
+At time 388 Your mobile account has been deducted by 2
+At time 394 Your mobile account has been deducted by 2
+At time 400 Your mobile account has been deducted by 2
+At time 406 Your mobile account has been deducted by 2
+At time 412 Your mobile account has been deducted by 2
+At time 418 Your mobile account has been deducted by 2
+At time 424 Your mobile account has been deducted by 2
+At time 430 Your mobile account has been deducted by 2
+At time 436 Your mobile account has been deducted by 2
+At time 442 Your mobile account has been deducted by 2
+At time 448 Your mobile account has been deducted by 2
+At time 454 Your mobile account has been deducted by 2
+At time 460 Your mobile account has been deducted by 2
+At time 466 Your mobile account has been deducted by 2
+At time 472 Your mobile account has been deducted by 2
+At time 478 Your mobile account has been deducted by 2
+At time 484 Your mobile account has been deducted by 2
+At time 490 Your mobile account has been deducted by 2
+At time 496 Your mobile account has been deducted by 2
+At time 502 Your mobile account has been deducted by 2
+At time 508 Your mobile account has been deducted by 2
+At time 514 Your mobile account has been deducted by 2
+At time 520 Your mobile account has been deducted by 2
+At time 526 Your mobile account has been deducted by 2
+At time 532 Your mobile account has been deducted by 2
+At time 538 Your mobile account has been deducted by 2
+At time 544 Your mobile account has been deducted by 2
+At time 550 Your mobile account has been deducted by 2
+At time 556 Your mobile account has been deducted by 2
+At time 562 Your mobile account has been deducted by 2
+At time 568 Your mobile account has been deducted by 2
+At time 574 Your mobile account has been deducted by 2
+At time 580 Your mobile account has been deducted by 2
+At time 586 Your mobile account has been deducted by 2
+At time 592 Your mobile account has been deducted by 2
+At time 598 Your mobile account has been deducted by 2
+At time 604 Your mobile account has been deducted by 2
+At time 610 Your mobile account has been deducted by 2
+At time 616 Your mobile account has been deducted by 2
+At time 622 Your mobile account has been deducted by 2
+At time 628 Your mobile account has been deducted by 2
+At time 634 Your mobile account has been deducted by 2
+At time 640 Your mobile account has been deducted by 2
+At time 646 Your mobile account has been deducted by 2
+At time 652 Your mobile account has been deducted by 2
+At time 658 Your mobile account has been deducted by 2
+At time 664 Your mobile account has been deducted by 2
+At time 670 Your mobile account has been deducted by 2
+At time 676 Your mobile account has been deducted by 2
+At time 682 Your mobile account has been deducted by 2
+At time 688 Your mobile account has been deducted by 2
+At time 694 Your mobile account has been deducted by 2
+At time 700 Your mobile account has been deducted by 2
+At time 706 Your mobile account has been deducted by 2
+At time 712 Your mobile account has been deducted by 2
+At time 718 Your mobile account has been deducted by 2
+At time 724 Your mobile account has been deducted by 2
+At time 730 Your mobile account has been deducted by 2
+At time 736 Your mobile account has been deducted by 2
+At time 742 Your mobile account has been deducted by 2
+At time 748 Your mobile account has been deducted by 2
+At time 754 Your mobile account has been deducted by 2
+At time 760 Your mobile account has been deducted by 2
+At time 766 Your mobile account has been deducted by 2
+At time 772 Your mobile account has been deducted by 2
+At time 778 Your mobile account has been deducted by 2
+At time 784 Your mobile account has been deducted by 2
+At time 790 Your mobile account has been deducted by 2
+At time 796 Your mobile account has been deducted by 2
+At time 802 Your mobile account has been deducted by 2
+At time 808 Your mobile account has been deducted by 2
+At time 814 Your mobile account has been deducted by 2
+At time 820 Your mobile account has been deducted by 2
+At time 826 Your mobile account has been deducted by 2
+At time 832 Your mobile account has been deducted by 2
+At time 838 Your mobile account has been deducted by 2
+At time 844 Your mobile account has been deducted by 2
+At time 850 Your mobile account has been deducted by 2
+At time 856 Your mobile account has been deducted by 2
+At time 862 Your mobile account has been deducted by 2
+At time 868 Your mobile account has been deducted by 2
+At time 874 Your mobile account has been deducted by 2
+At time 880 Your mobile account has been deducted by 2
+At time 886 Your mobile account has been deducted by 2
+At time 892 Your mobile account has been deducted by 2
+At time 898 Your mobile account has been deducted by 2
+At time 904 Your mobile account has been deducted by 2
+At time 910 Your mobile account has been deducted by 2
+At time 916 Your mobile account has been deducted by 2
+At time 922 Your mobile account has been deducted by 2
+At time 928 Your mobile account has been deducted by 2
+At time 934 Your mobile account has been deducted by 2
+At time 940 Your mobile account has been deducted by 2
+At time 946 Your mobile account has been deducted by 2
+At time 952 Your mobile account has been deducted by 2
+At time 958 Your mobile account has been deducted by 2
+At time 964 Your mobile account has been deducted by 2
+At time 970 Your mobile account has been deducted by 2
+At time 976 Your mobile account has been deducted by 2
+At time 982 Your mobile account has been deducted by 2
+At time 988 Your mobile account has been deducted by 2
+At time 994 Your mobile account has been deducted by 2
+At time 1000 Your mobile account has been deducted by 2
+At time 1006 Your mobile account has been deducted by 2
+At time 1012 Your mobile account has been deducted by 2
+At time 1018 Your mobile account has been deducted by 2
+At time 1024 Your mobile account has been deducted by 2
+At time 1030 Your mobile account has been deducted by 2
+At time 1036 Your mobile account has been deducted by 2
+At time 1042 Your mobile account has been deducted by 2
+At time 1048 Your mobile account has been deducted by 2
+At time 1054 Your mobile account has been deducted by 2
+At time 1060 Your mobile account has been deducted by 2
+At time 1066 Your mobile account has been deducted by 2
+At time 1072 Your mobile account has been deducted by 2
+At time 1078 Your mobile account has been deducted by 2
+At time 1084 Your mobile account has been deducted by 2
+At time 1090 Your mobile account has been deducted by 2
+At time 1096 Your mobile account has been deducted by 2
+At time 1102 Your mobile account has been deducted by 2
+At time 1108 Your mobile account has been deducted by 2
+At time 1114 Your mobile account has been deducted by 2
+At time 1120 Your mobile account has been deducted by 2
+At time 1126 Your mobile account has been deducted by 2
+At time 1132 Your mobile account has been deducted by 2
+At time 1138 Your mobile account has been deducted by 2
+At time 1144 Your mobile account has been deducted by 2
+At time 1150 Your mobile account has been deducted by 2
+At time 1156 Your mobile account has been deducted by 2
+At time 1162 Your mobile account has been deducted by 2
+At time 1168 Your mobile account has been deducted by 2
+At time 1174 Your mobile account has been deducted by 2
+At time 1180 Your mobile account has been deducted by 2
+At time 1186 Your mobile account has been deducted by 2
+At time 1192 Your mobile account has been deducted by 2
+At time 1198 Your mobile account has been deducted by 2
+At time 1204 Your mobile account has been deducted by 2
+At time 1210 Your mobile account has been deducted by 2
+At time 1216 Your mobile account has been deducted by 2
+At time 1222 Your mobile account has been deducted by 2
+At time 1228 Your mobile account has been deducted by 2
+At time 1234 Your mobile account has been deducted by 2
+At time 1240 Your mobile account has been deducted by 2
+At time 1246 Your mobile account has been deducted by 2
+At time 1252 Your mobile account has been deducted by 2
+At time 1258 Your mobile account has been deducted by 2
+At time 1264 Your mobile account has been deducted by 2
+At time 1270 Your mobile account has been deducted by 2
+At time 1276 Your mobile account has been deducted by 2
+At time 1282 Your mobile account has been deducted by 2
+At time 1288 Your mobile account has been deducted by 2
+At time 1294 Your mobile account has been deducted by 2
+At time 1300 Your mobile account has been deducted by 2
+At time 1306 Your mobile account has been deducted by 2
+At time 1312 Your mobile account has been deducted by 2
+At time 1318 Your mobile account has been deducted by 2
+At time 1324 Your mobile account has been deducted by 2
+At time 1330 Your mobile account has been deducted by 2
+At time 1336 Your mobile account has been deducted by 2
+At time 1342 Your mobile account has been deducted by 2
+At time 1348 Your mobile account has been deducted by 2
+At time 1354 Your mobile account has been deducted by 2
+At time 1360 Your mobile account has been deducted by 2
+At time 1366 Your mobile account has been deducted by 2
+At time 1372 Your mobile account has been deducted by 2
+At time 1378 Your mobile account has been deducted by 2
+At time 1384 Your mobile account has been deducted by 2
+At time 1390 Your mobile account has been deducted by 2
+At time 1396 Your mobile account has been deducted by 2
+At time 1402 Your mobile account has been deducted by 2
+At time 1408 Your mobile account has been deducted by 2
+At time 1414 Your mobile account has been deducted by 2
+At time 1420 Your mobile account has been deducted by 2
+At time 1426 Your mobile account has been deducted by 2
+At time 1432 Your mobile account has been deducted by 2
+At time 1438 Your mobile account has been deducted by 2
+At time 1444 Your mobile account has been deducted by 2
+At time 1450 Your mobile account has been deducted by 2
+At time 1456 Your mobile account has been deducted by 2
+At time 1462 Your mobile account has been deducted by 2
+At time 1468 Your mobile account has been deducted by 2
+At time 1474 Your mobile account has been deducted by 2
+At time 1480 Your mobile account has been deducted by 2
+At time 1486 Your mobile account has been deducted by 2
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+After Science Park Drive%House 7%A1%142%162
+After Science Park Drive%House 7%A1%142%162
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+After Science Park Drive%%A1%142%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$$START USER$$
+Ngo Tuan Vu%83234589%83%1111122222%mobile%mobile%1490%inactive%%789%
+$$$START SMSLOG$$$
+At time 19 Your mobile account has been deducted by 2
+At time 80 Your mobile account has been deducted by 2
+At time 141 Your mobile account has been deducted by 2
+At time 147 Your mobile account has been deducted by 2
+At time 153 Your mobile account has been deducted by 2
+At time 159 Your mobile account has been deducted by 2
+At time 165 Your mobile account has been deducted by 2
+At time 171 Your mobile account has been deducted by 2
+At time 177 Your mobile account has been deducted by 2
+At time 183 Your mobile account has been deducted by 2
+At time 189 Your mobile account has been deducted by 2
+At time 195 Your mobile account has been deducted by 2
+At time 201 Your mobile account has been deducted by 2
+At time 207 Your mobile account has been deducted by 2
+At time 213 Your mobile account has been deducted by 2
+At time 219 Your mobile account has been deducted by 2
+At time 225 Your mobile account has been deducted by 2
+At time 231 Your mobile account has been deducted by 2
+At time 237 Your mobile account has been deducted by 2
+At time 243 Your mobile account has been deducted by 2
+At time 249 Your mobile account has been deducted by 2
+At time 255 Your mobile account has been deducted by 2
+At time 261 Your mobile account has been deducted by 2
+At time 267 Your mobile account has been deducted by 2
+At time 273 Your mobile account has been deducted by 2
+At time 279 Your mobile account has been deducted by 2
+At time 285 Your mobile account has been deducted by 2
+At time 291 Your mobile account has been deducted by 2
+At time 297 Your mobile account has been deducted by 2
+At time 303 Your mobile account has been deducted by 2
+At time 309 Your mobile account has been deducted by 2
+At time 315 Your mobile account has been deducted by 2
+At time 321 Your mobile account has been deducted by 2
+At time 327 Your mobile account has been deducted by 2
+At time 333 Your mobile account has been deducted by 2
+At time 339 Your mobile account has been deducted by 2
+At time 345 Your mobile account has been deducted by 2
+At time 351 Your mobile account has been deducted by 2
+At time 357 Your mobile account has been deducted by 2
+At time 363 Your mobile account has been deducted by 2
+At time 369 Your mobile account has been deducted by 2
+At time 375 Your mobile account has been deducted by 2
+At time 381 Your mobile account has been deducted by 2
+At time 387 Your mobile account has been deducted by 2
+At time 393 Your mobile account has been deducted by 2
+At time 399 Your mobile account has been deducted by 2
+At time 405 Your mobile account has been deducted by 2
+At time 411 Your mobile account has been deducted by 2
+At time 417 Your mobile account has been deducted by 2
+At time 423 Your mobile account has been deducted by 2
+At time 429 Your mobile account has been deducted by 2
+At time 435 Your mobile account has been deducted by 2
+At time 441 Your mobile account has been deducted by 2
+At time 447 Your mobile account has been deducted by 2
+At time 453 Your mobile account has been deducted by 2
+At time 459 Your mobile account has been deducted by 2
+At time 465 Your mobile account has been deducted by 2
+At time 471 Your mobile account has been deducted by 2
+At time 477 Your mobile account has been deducted by 2
+At time 483 Your mobile account has been deducted by 2
+At time 489 Your mobile account has been deducted by 2
+At time 495 Your mobile account has been deducted by 2
+At time 501 Your mobile account has been deducted by 2
+At time 507 Your mobile account has been deducted by 2
+At time 513 Your mobile account has been deducted by 2
+At time 519 Your mobile account has been deducted by 2
+At time 525 Your mobile account has been deducted by 2
+At time 531 Your mobile account has been deducted by 2
+At time 537 Your mobile account has been deducted by 2
+At time 543 Your mobile account has been deducted by 2
+At time 549 Your mobile account has been deducted by 2
+At time 555 Your mobile account has been deducted by 2
+At time 561 Your mobile account has been deducted by 2
+At time 567 Your mobile account has been deducted by 2
+At time 573 Your mobile account has been deducted by 2
+At time 579 Your mobile account has been deducted by 2
+At time 585 Your mobile account has been deducted by 2
+At time 591 Your mobile account has been deducted by 2
+At time 597 Your mobile account has been deducted by 2
+At time 603 Your mobile account has been deducted by 2
+At time 609 Your mobile account has been deducted by 2
+At time 615 Your mobile account has been deducted by 2
+At time 621 Your mobile account has been deducted by 2
+At time 627 Your mobile account has been deducted by 2
+At time 633 Your mobile account has been deducted by 2
+At time 639 Your mobile account has been deducted by 2
+At time 645 Your mobile account has been deducted by 2
+At time 651 Your mobile account has been deducted by 2
+At time 657 Your mobile account has been deducted by 2
+At time 663 Your mobile account has been deducted by 2
+At time 669 Your mobile account has been deducted by 2
+At time 675 Your mobile account has been deducted by 2
+At time 681 Your mobile account has been deducted by 2
+At time 687 Your mobile account has been deducted by 2
+At time 693 Your mobile account has been deducted by 2
+At time 699 Your mobile account has been deducted by 2
+At time 705 Your mobile account has been deducted by 2
+At time 711 Your mobile account has been deducted by 2
+At time 717 Your mobile account has been deducted by 2
+At time 723 Your mobile account has been deducted by 2
+At time 729 Your mobile account has been deducted by 2
+At time 735 Your mobile account has been deducted by 2
+At time 741 Your mobile account has been deducted by 2
+At time 747 Your mobile account has been deducted by 2
+At time 753 Your mobile account has been deducted by 2
+At time 759 Your mobile account has been deducted by 2
+At time 765 Your mobile account has been deducted by 2
+At time 771 Your mobile account has been deducted by 2
+At time 777 Your mobile account has been deducted by 2
+At time 783 Your mobile account has been deducted by 2
+At time 789 Your mobile account has been deducted by 2
+At time 795 Your mobile account has been deducted by 2
+At time 801 Your mobile account has been deducted by 2
+At time 807 Your mobile account has been deducted by 2
+At time 813 Your mobile account has been deducted by 2
+At time 819 Your mobile account has been deducted by 2
+At time 825 Your mobile account has been deducted by 2
+At time 831 Your mobile account has been deducted by 2
+At time 837 Your mobile account has been deducted by 2
+At time 843 Your mobile account has been deducted by 2
+At time 849 Your mobile account has been deducted by 2
+At time 855 Your mobile account has been deducted by 2
+At time 861 Your mobile account has been deducted by 2
+At time 867 Your mobile account has been deducted by 2
+At time 873 Your mobile account has been deducted by 2
+At time 879 Your mobile account has been deducted by 2
+At time 885 Your mobile account has been deducted by 2
+At time 891 Your mobile account has been deducted by 2
+At time 897 Your mobile account has been deducted by 2
+At time 903 Your mobile account has been deducted by 2
+At time 909 Your mobile account has been deducted by 2
+At time 915 Your mobile account has been deducted by 2
+At time 921 Your mobile account has been deducted by 2
+At time 927 Your mobile account has been deducted by 2
+At time 933 Your mobile account has been deducted by 2
+At time 939 Your mobile account has been deducted by 2
+At time 945 Your mobile account has been deducted by 2
+At time 951 Your mobile account has been deducted by 2
+At time 957 Your mobile account has been deducted by 2
+At time 963 Your mobile account has been deducted by 2
+At time 969 Your mobile account has been deducted by 2
+At time 975 Your mobile account has been deducted by 2
+At time 981 Your mobile account has been deducted by 2
+At time 987 Your mobile account has been deducted by 2
+At time 993 Your mobile account has been deducted by 2
+At time 999 Your mobile account has been deducted by 2
+At time 1005 Your mobile account has been deducted by 2
+At time 1011 Your mobile account has been deducted by 2
+At time 1017 Your mobile account has been deducted by 2
+At time 1023 Your mobile account has been deducted by 2
+At time 1029 Your mobile account has been deducted by 2
+At time 1035 Your mobile account has been deducted by 2
+At time 1041 Your mobile account has been deducted by 2
+At time 1047 Your mobile account has been deducted by 2
+At time 1053 Your mobile account has been deducted by 2
+At time 1059 Your mobile account has been deducted by 2
+At time 1065 Your mobile account has been deducted by 2
+At time 1071 Your mobile account has been deducted by 2
+At time 1077 Your mobile account has been deducted by 2
+At time 1083 Your mobile account has been deducted by 2
+At time 1089 Your mobile account has been deducted by 2
+At time 1095 Your mobile account has been deducted by 2
+At time 1101 Your mobile account has been deducted by 2
+At time 1107 Your mobile account has been deducted by 2
+At time 1113 Your mobile account has been deducted by 2
+At time 1119 Your mobile account has been deducted by 2
+At time 1125 Your mobile account has been deducted by 2
+At time 1131 Your mobile account has been deducted by 2
+At time 1137 Your mobile account has been deducted by 2
+At time 1143 Your mobile account has been deducted by 2
+At time 1149 Your mobile account has been deducted by 2
+At time 1155 Your mobile account has been deducted by 2
+At time 1161 Your mobile account has been deducted by 2
+At time 1167 Your mobile account has been deducted by 2
+At time 1173 Your mobile account has been deducted by 2
+At time 1179 Your mobile account has been deducted by 2
+At time 1185 Your mobile account has been deducted by 2
+At time 1191 Your mobile account has been deducted by 2
+At time 1197 Your mobile account has been deducted by 2
+At time 1203 Your mobile account has been deducted by 2
+At time 1209 Your mobile account has been deducted by 2
+At time 1215 Your mobile account has been deducted by 2
+At time 1221 Your mobile account has been deducted by 2
+At time 1227 Your mobile account has been deducted by 2
+At time 1233 Your mobile account has been deducted by 2
+At time 1239 Your mobile account has been deducted by 2
+At time 1245 Your mobile account has been deducted by 2
+At time 1251 Your mobile account has been deducted by 2
+At time 1257 Your mobile account has been deducted by 2
+At time 1263 Your mobile account has been deducted by 2
+At time 1269 Your mobile account has been deducted by 2
+At time 1275 Your mobile account has been deducted by 2
+At time 1281 Your mobile account has been deducted by 2
+At time 1287 Your mobile account has been deducted by 2
+At time 1293 Your mobile account has been deducted by 2
+At time 1299 Your mobile account has been deducted by 2
+At time 1305 Your mobile account has been deducted by 2
+At time 1311 Your mobile account has been deducted by 2
+At time 1317 Your mobile account has been deducted by 2
+At time 1323 Your mobile account has been deducted by 2
+At time 1329 Your mobile account has been deducted by 2
+At time 1335 Your mobile account has been deducted by 2
+At time 1341 Your mobile account has been deducted by 2
+At time 1347 Your mobile account has been deducted by 2
+At time 1353 Your mobile account has been deducted by 2
+At time 1359 Your mobile account has been deducted by 2
+At time 1365 Your mobile account has been deducted by 2
+At time 1371 Your mobile account has been deducted by 2
+At time 1377 Your mobile account has been deducted by 2
+At time 1383 Your mobile account has been deducted by 2
+At time 1389 Your mobile account has been deducted by 2
+At time 1395 Your mobile account has been deducted by 2
+At time 1401 Your mobile account has been deducted by 2
+At time 1407 Your mobile account has been deducted by 2
+At time 1413 Your mobile account has been deducted by 2
+At time 1419 Your mobile account has been deducted by 2
+At time 1425 Your mobile account has been deducted by 2
+At time 1431 Your mobile account has been deducted by 2
+At time 1437 Your mobile account has been deducted by 2
+At time 1443 Your mobile account has been deducted by 2
+At time 1449 Your mobile account has been deducted by 2
+At time 1455 Your mobile account has been deducted by 2
+At time 1461 Your mobile account has been deducted by 2
+At time 1467 Your mobile account has been deducted by 2
+At time 1473 Your mobile account has been deducted by 2
+At time 1479 Your mobile account has been deducted by 2
+At time 1485 Your mobile account has been deducted by 2
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+BIZ2%PGP Terminal%A1%19%20
+BIZ2%PGP Terminal%A1%19%20
+Yusof Ishak House%Opp Blk EA%B%126%142
+Yusof Ishak House%Opp Blk EA%B%126%142
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+Yusof Ishak House%%B%126%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$$START USER$$
+Teo Kai Ren%91159375%0%9999900000%mobile%mobile%1487%inactive%%987%
+$$$START SMSLOG$$$
+At time 162 Your mobile account has been deducted by 2
+At time 168 Your mobile account has been deducted by 2
+At time 174 Your mobile account has been deducted by 2
+At time 180 Your mobile account has been deducted by 2
+At time 186 Your mobile account has been deducted by 2
+At time 192 Your mobile account has been deducted by 2
+At time 198 Your mobile account has been deducted by 2
+At time 204 Your mobile account has been deducted by 2
+At time 210 Your mobile account has been deducted by 2
+At time 216 Your mobile account has been deducted by 2
+At time 222 Your mobile account has been deducted by 2
+At time 228 Your mobile account has been deducted by 2
+At time 234 Your mobile account has been deducted by 2
+At time 240 Your mobile account has been deducted by 2
+At time 246 Your mobile account has been deducted by 2
+At time 252 Your mobile account has been deducted by 2
+At time 258 Your mobile account has been deducted by 2
+At time 264 Your mobile account has been deducted by 2
+At time 270 Your mobile account has been deducted by 2
+At time 276 Your mobile account has been deducted by 2
+At time 282 Your mobile account has been deducted by 2
+At time 288 Your mobile account has been deducted by 2
+At time 294 Your mobile account has been deducted by 2
+At time 300 Your mobile account has been deducted by 2
+At time 306 Your mobile account has been deducted by 2
+At time 312 Your mobile account has been deducted by 2
+At time 318 Your mobile account has been deducted by 2
+At time 324 Your mobile account has been deducted by 2
+At time 330 Your mobile account has been deducted by 2
+At time 336 Your mobile account has been deducted by 2
+At time 342 Your mobile account has been deducted by 2
+At time 348 Your mobile account has been deducted by 2
+At time 354 Your mobile account has been deducted by 2
+At time 360 Your mobile account has been deducted by 2
+At time 366 Your mobile account has been deducted by 2
+At time 372 Your mobile account has been deducted by 2
+At time 378 Your mobile account has been deducted by 2
+At time 384 Your mobile account has been deducted by 2
+At time 390 Your mobile account has been deducted by 2
+At time 396 Your mobile account has been deducted by 2
+At time 402 Your mobile account has been deducted by 2
+At time 408 Your mobile account has been deducted by 2
+At time 414 Your mobile account has been deducted by 2
+At time 420 Your mobile account has been deducted by 2
+At time 426 Your mobile account has been deducted by 2
+At time 432 Your mobile account has been deducted by 2
+At time 438 Your mobile account has been deducted by 2
+At time 444 Your mobile account has been deducted by 2
+At time 450 Your mobile account has been deducted by 2
+At time 456 Your mobile account has been deducted by 2
+At time 462 Your mobile account has been deducted by 2
+At time 468 Your mobile account has been deducted by 2
+At time 474 Your mobile account has been deducted by 2
+At time 480 Your mobile account has been deducted by 2
+At time 486 Your mobile account has been deducted by 2
+At time 492 Your mobile account has been deducted by 2
+At time 498 Your mobile account has been deducted by 2
+At time 504 Your mobile account has been deducted by 2
+At time 510 Your mobile account has been deducted by 2
+At time 516 Your mobile account has been deducted by 2
+At time 522 Your mobile account has been deducted by 2
+At time 528 Your mobile account has been deducted by 2
+At time 534 Your mobile account has been deducted by 2
+At time 540 Your mobile account has been deducted by 2
+At time 546 Your mobile account has been deducted by 2
+At time 552 Your mobile account has been deducted by 2
+At time 558 Your mobile account has been deducted by 2
+At time 564 Your mobile account has been deducted by 2
+At time 570 Your mobile account has been deducted by 2
+At time 576 Your mobile account has been deducted by 2
+At time 582 Your mobile account has been deducted by 2
+At time 588 Your mobile account has been deducted by 2
+At time 594 Your mobile account has been deducted by 2
+At time 600 Your mobile account has been deducted by 2
+At time 606 Your mobile account has been deducted by 2
+At time 612 Your mobile account has been deducted by 2
+At time 618 Your mobile account has been deducted by 2
+At time 624 Your mobile account has been deducted by 2
+At time 630 Your mobile account has been deducted by 2
+At time 636 Your mobile account has been deducted by 2
+At time 642 Your mobile account has been deducted by 2
+At time 648 Your mobile account has been deducted by 2
+At time 654 Your mobile account has been deducted by 2
+At time 660 Your mobile account has been deducted by 2
+At time 666 Your mobile account has been deducted by 2
+At time 672 Your mobile account has been deducted by 2
+At time 678 Your mobile account has been deducted by 2
+At time 684 Your mobile account has been deducted by 2
+At time 690 Your mobile account has been deducted by 2
+At time 696 Your mobile account has been deducted by 2
+At time 702 Your mobile account has been deducted by 2
+At time 708 Your mobile account has been deducted by 2
+At time 714 Your mobile account has been deducted by 2
+At time 720 Your mobile account has been deducted by 2
+At time 726 Your mobile account has been deducted by 2
+At time 732 Your mobile account has been deducted by 2
+At time 738 Your mobile account has been deducted by 2
+At time 744 Your mobile account has been deducted by 2
+At time 750 Your mobile account has been deducted by 2
+At time 756 Your mobile account has been deducted by 2
+At time 762 Your mobile account has been deducted by 2
+At time 768 Your mobile account has been deducted by 2
+At time 774 Your mobile account has been deducted by 2
+At time 780 Your mobile account has been deducted by 2
+At time 786 Your mobile account has been deducted by 2
+At time 792 Your mobile account has been deducted by 2
+At time 798 Your mobile account has been deducted by 2
+At time 804 Your mobile account has been deducted by 2
+At time 810 Your mobile account has been deducted by 2
+At time 816 Your mobile account has been deducted by 2
+At time 822 Your mobile account has been deducted by 2
+At time 828 Your mobile account has been deducted by 2
+At time 834 Your mobile account has been deducted by 2
+At time 840 Your mobile account has been deducted by 2
+At time 846 Your mobile account has been deducted by 2
+At time 852 Your mobile account has been deducted by 2
+At time 858 Your mobile account has been deducted by 2
+At time 864 Your mobile account has been deducted by 2
+At time 870 Your mobile account has been deducted by 2
+At time 876 Your mobile account has been deducted by 2
+At time 882 Your mobile account has been deducted by 2
+At time 888 Your mobile account has been deducted by 2
+At time 894 Your mobile account has been deducted by 2
+At time 900 Your mobile account has been deducted by 2
+At time 906 Your mobile account has been deducted by 2
+At time 912 Your mobile account has been deducted by 2
+At time 918 Your mobile account has been deducted by 2
+At time 924 Your mobile account has been deducted by 2
+At time 930 Your mobile account has been deducted by 2
+At time 936 Your mobile account has been deducted by 2
+At time 942 Your mobile account has been deducted by 2
+At time 948 Your mobile account has been deducted by 2
+At time 954 Your mobile account has been deducted by 2
+At time 960 Your mobile account has been deducted by 2
+At time 966 Your mobile account has been deducted by 2
+At time 972 Your mobile account has been deducted by 2
+At time 978 Your mobile account has been deducted by 2
+At time 984 Your mobile account has been deducted by 2
+At time 990 Your mobile account has been deducted by 2
+At time 996 Your mobile account has been deducted by 2
+At time 1002 Your mobile account has been deducted by 2
+At time 1008 Your mobile account has been deducted by 2
+At time 1014 Your mobile account has been deducted by 2
+At time 1020 Your mobile account has been deducted by 2
+At time 1026 Your mobile account has been deducted by 2
+At time 1032 Your mobile account has been deducted by 2
+At time 1038 Your mobile account has been deducted by 2
+At time 1044 Your mobile account has been deducted by 2
+At time 1050 Your mobile account has been deducted by 2
+At time 1056 Your mobile account has been deducted by 2
+At time 1062 Your mobile account has been deducted by 2
+At time 1068 Your mobile account has been deducted by 2
+At time 1074 Your mobile account has been deducted by 2
+At time 1080 Your mobile account has been deducted by 2
+At time 1086 Your mobile account has been deducted by 2
+At time 1092 Your mobile account has been deducted by 2
+At time 1098 Your mobile account has been deducted by 2
+At time 1104 Your mobile account has been deducted by 2
+At time 1110 Your mobile account has been deducted by 2
+At time 1116 Your mobile account has been deducted by 2
+At time 1122 Your mobile account has been deducted by 2
+At time 1128 Your mobile account has been deducted by 2
+At time 1134 Your mobile account has been deducted by 2
+At time 1140 Your mobile account has been deducted by 2
+At time 1146 Your mobile account has been deducted by 2
+At time 1152 Your mobile account has been deducted by 2
+At time 1158 Your mobile account has been deducted by 2
+At time 1164 Your mobile account has been deducted by 2
+At time 1170 Your mobile account has been deducted by 2
+At time 1176 Your mobile account has been deducted by 2
+At time 1182 Your mobile account has been deducted by 2
+At time 1188 Your mobile account has been deducted by 2
+At time 1194 Your mobile account has been deducted by 2
+At time 1200 Your mobile account has been deducted by 2
+At time 1206 Your mobile account has been deducted by 2
+At time 1212 Your mobile account has been deducted by 2
+At time 1218 Your mobile account has been deducted by 2
+At time 1224 Your mobile account has been deducted by 2
+At time 1230 Your mobile account has been deducted by 2
+At time 1236 Your mobile account has been deducted by 2
+At time 1242 Your mobile account has been deducted by 2
+At time 1248 Your mobile account has been deducted by 2
+At time 1254 Your mobile account has been deducted by 2
+At time 1260 Your mobile account has been deducted by 2
+At time 1266 Your mobile account has been deducted by 2
+At time 1272 Your mobile account has been deducted by 2
+At time 1278 Your mobile account has been deducted by 2
+At time 1284 Your mobile account has been deducted by 2
+At time 1290 Your mobile account has been deducted by 2
+At time 1296 Your mobile account has been deducted by 2
+At time 1302 Your mobile account has been deducted by 2
+At time 1308 Your mobile account has been deducted by 2
+At time 1314 Your mobile account has been deducted by 2
+At time 1320 Your mobile account has been deducted by 2
+At time 1326 Your mobile account has been deducted by 2
+At time 1332 Your mobile account has been deducted by 2
+At time 1338 Your mobile account has been deducted by 2
+At time 1344 Your mobile account has been deducted by 2
+At time 1350 Your mobile account has been deducted by 2
+At time 1356 Your mobile account has been deducted by 2
+At time 1362 Your mobile account has been deducted by 2
+At time 1368 Your mobile account has been deducted by 2
+At time 1374 Your mobile account has been deducted by 2
+At time 1380 Your mobile account has been deducted by 2
+At time 1386 Your mobile account has been deducted by 2
+At time 1392 Your mobile account has been deducted by 2
+At time 1398 Your mobile account has been deducted by 2
+At time 1404 Your mobile account has been deducted by 2
+At time 1410 Your mobile account has been deducted by 2
+At time 1416 Your mobile account has been deducted by 2
+At time 1422 Your mobile account has been deducted by 2
+At time 1428 Your mobile account has been deducted by 2
+At time 1434 Your mobile account has been deducted by 2
+At time 1440 Your mobile account has been deducted by 2
+At time 1446 Your mobile account has been deducted by 2
+At time 1452 Your mobile account has been deducted by 2
+At time 1458 Your mobile account has been deducted by 2
+At time 1464 Your mobile account has been deducted by 2
+At time 1470 Your mobile account has been deducted by 2
+At time 1476 Your mobile account has been deducted by 2
+At time 1482 Your mobile account has been deducted by 2
+$$$END SMSLOG$$$
+$$$START JOURNEYLOG$$$
+After Science Park Drive%House 7%A1%162%182
+After Science Park Drive%House 7%A1%162%182
+After Science Park Drive%House 7%A1%262%282
+After Science Park Drive%House 7%A1%262%282
+After Science Park Drive%House 7%A1%302%322
+After Science Park Drive%House 7%A1%302%322
+After Science Park Drive%Central Library%A1%342%351
+After Science Park Drive%Central Library%A1%342%351
+After Science Park Drive%University Hall%A1%382%387
+After Science Park Drive%University Hall%A1%382%387
+NUH%University Hall%A1%425%427
+NUH%University Hall%A1%425%427
+AS7%House 7%A1%473%482
+AS7%House 7%A1%473%482
+After Science Park Drive%NUH%A1%542%545
+After Science Park Drive%NUH%A1%542%545
+AS7%PGP Terminal%A1%633%640
+AS7%PGP Terminal%A1%633%640
+AS7%House 7%A1%673%682
+AS7%House 7%A1%673%682
+After Science Park Drive%House 7%A1%722%742
+After Science Park Drive%House 7%A1%722%742
+After Science Park Drive%House 7%A1%802%822
+After Science Park Drive%House 7%A1%802%822
+After Science Park Drive%House 7%A1%842%862
+After Science Park Drive%House 7%A1%842%862
+NUH%House 7%A1%905%922
+NUH%House 7%A1%905%922
+NUH%House 7%A1%905%922
+NUH%House 7%A1%905%922
+NUH%House 7%A1%945%962
+NUH%House 7%A1%945%962
+NUH%House 7%A1%985%1002
+NUH%House 7%A1%985%1002
+NUH%University Hall%A1%1125%1127
+NUH%University Hall%A1%1125%1127
+NUH%House 7%A1%1145%1162
+NUH%House 7%A1%1145%1162
+LT13%House 7%A1%1218%1222
+LT13%House 7%A1%1218%1222
+LT13%E3A%B%1218%1223
+LT13%E3A%B%1218%1223
+AS7%House 7%A1%1229%1242
+AS7%House 7%A1%1229%1242
+AS7%Opp Blk EA%B%1229%1242
+AS7%Opp Blk EA%B%1229%1242
+AS7%Opp Blk EA%B%1229%1242
+AS7%Opp Blk EA%B%1229%1242
+AS7%Opp NUH%A2%1229%1246
+AS7%Opp NUH%A2%1229%1246
+NUH%House 7%A1%1345%1362
+NUH%House 7%A1%1345%1362
+NUH%LT29%A1%1405%1406
+NUH%LT29%A1%1405%1406
+NUH%University Hall%A1%1405%1407
+NUH%University Hall%A1%1405%1407
+NUH%Opp Staff Club%A1%1445%1449
+NUH%Opp Staff Club%A1%1445%1449
+NUH%Yusof Ishak House%A1%1445%1450
+NUH%Yusof Ishak House%A1%1445%1450
+NUH%House 7%A1%1445%1462
+NUH%House 7%A1%1445%1462
+$$$END JOURNEYLOG$$$
+$$$START JOURNEYPLAN$$$
+NUH%%A1%1445%-1
+$$$END JOURNEYPLAN$$$
+$$END USER$$
+
+$END USERLIST$

@@ -1,0 +1,15 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	x:Class="GUI_for_0._1.UserControl2"
+	x:Name="UserControl"
+	d:DesignWidth="95.005" d:DesignHeight="49.333">
+
+	<Grid x:Name="LayoutRoot">
+		<Ellipse Margin="7.346,5.07,0,12.87" Stroke="White" HorizontalAlignment="Left" Width="31.393" StrokeThickness="0.8"/>
+		<TextBlock Margin="18.99,9.998,-0.652,10.592" TextWrapping="Wrap" Text="Home" Foreground="White" FontFamily="Marker Felt" FontSize="18.667"/>
+	</Grid>
+</UserControl>
